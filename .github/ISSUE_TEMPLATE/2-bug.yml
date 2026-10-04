@@ -1,0 +1,66 @@
+name: 🐛 버그
+description: 의도와 다르게 동작하는 문제를 알릴 때 사용해요
+title: "fix: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        제목은 `fix: HEIC 사진 업로드 시 날짜를 못 읽는 문제`처럼 작성해 주세요.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: 영역
+      description: 어느 화면에서 발생했나요?
+      options:
+        - 홈 · 아카이브
+        - 여행 목록 · 여권
+        - 챕터 · 포스트 · 360°
+        - 지도 · 위시리스트
+        - 업로드 · 사진 정리
+        - 공유 · 내보내기
+        - 공통 컴포넌트 · 레이아웃
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 어떤 문제인가요?
+      placeholder: 아이폰에서 찍은 HEIC 사진을 올리면 날짜가 비어 있어요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: 재현 방법
+      description: 다른 사람이 똑같이 따라 할 수 있게 순서대로 적어 주세요.
+      value: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: 기대한 동작
+      placeholder: 사진을 찍은 날짜가 표시되어야 해요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: 스크린샷 · 에러 메시지
+      description: 화면 캡처나 콘솔 에러를 붙여 주세요. (선택)
+
+  - type: input
+    id: environment
+    attributes:
+      label: 환경
+      description: 브라우저와 기기 (선택)
+      placeholder: Chrome / macOS

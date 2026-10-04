@@ -1,0 +1,51 @@
+name: ✨ 기능
+description: 새로운 기능을 추가할 때 사용해요
+title: "feat: "
+labels: ["feat"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        제목은 `feat: 지도 이동 경로 애니메이션 추가`처럼 작성해 주세요.
+
+  - type: dropdown
+    id: area
+    attributes:
+      label: 영역
+      description: 어느 화면의 작업인가요?
+      options:
+        - 홈 · 아카이브
+        - 여행 목록 · 여권
+        - 챕터 · 포스트 · 360°
+        - 지도 · 위시리스트
+        - 업로드 · 사진 정리
+        - 공유 · 내보내기
+        - 공통 컴포넌트 · 레이아웃
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 기능 설명
+      description: 어떤 기능인지, 왜 필요한지 적어 주세요.
+      placeholder: 지도에서 여행 순서대로 도시 사이를 선으로 이어 보여줍니다.
+    validations:
+      required: true
+
+  - type: textarea
+    id: todo
+    attributes:
+      label: 할 일
+      description: 작업을 작은 단위로 나눠 체크리스트로 적어 주세요.
+      value: |
+        - [ ]
+        - [ ]
+    validations:
+      required: true
+
+  - type: textarea
+    id: reference
+    attributes:
+      label: 참고 자료
+      description: 데모 화면 캡처, 관련 이슈, 참고 링크 등 (선택)

@@ -1,0 +1,38 @@
+name: 🛠 작업
+description: 디자인, 리팩터링, 문서, 설정 등 기능·버그 외의 작업에 사용해요
+body:
+  - type: markdown
+    attributes:
+      value: |
+        제목은 아래 타입 중 하나로 시작해 주세요.
+        `design: 여권 도장 카드 간격 조정` · `refactor: 여행 통계 계산 로직 분리` · `docs: README 실행 방법 추가` · `chore: zustand 설치`
+
+  - type: dropdown
+    id: type
+    attributes:
+      label: 작업 종류
+      options:
+        - design (화면 디자인 변경)
+        - refactor (동작은 그대로, 코드 구조 개선)
+        - style (코드 포맷만 변경)
+        - docs (문서)
+        - test (테스트)
+        - chore (패키지, 설정 등 기타)
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: 작업 내용
+      description: 무엇을, 왜 하는지 적어 주세요.
+    validations:
+      required: true
+
+  - type: textarea
+    id: todo
+    attributes:
+      label: 할 일
+      value: |
+        - [ ]
+        - [ ]
