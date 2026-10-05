@@ -31,21 +31,26 @@ jobs:
             echo "::notice::package.json이 없어서 lint와 빌드를 건너뛰어요"
           fi
 
+      # 버전은 package.json의 packageManager를 읽어요
+      - name: pnpm 설치
+        if: steps.project.outputs.exists == 'true'
+        uses: pnpm/action-setup@v6
+
       - name: Node 설치
         if: steps.project.outputs.exists == 'true'
         uses: actions/setup-node@v7
         with:
-          node-version: 24
-          cache: npm
+          node-version-file: .nvmrc
+          cache: pnpm
 
       - name: 패키지 설치
         if: steps.project.outputs.exists == 'true'
-        run: npm ci
+        run: pnpm install --frozen-lockfile
 
       - name: Lint 검사
         if: steps.project.outputs.exists == 'true'
-        run: npm run lint
+        run: pnpm lint
 
       - name: 빌드
         if: steps.project.outputs.exists == 'true'
-        run: npm run build
+        run: pnpm build
