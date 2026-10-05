@@ -21,17 +21,31 @@ jobs:
       - name: 코드 가져오기
         uses: actions/checkout@v7
 
+      # React 프로젝트를 만들기 전에는 검사할 코드가 없어서 나머지 단계를 건너뛰어요
+      - name: 프로젝트 확인
+        id: project
+        run: |
+          if [ -f package.json ]; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "::notice::package.json이 없어서 lint와 빌드를 건너뛰어요"
+          fi
+
       - name: Node 설치
+        if: steps.project.outputs.exists == 'true'
         uses: actions/setup-node@v7
         with:
           node-version: 24
           cache: npm
 
       - name: 패키지 설치
+        if: steps.project.outputs.exists == 'true'
         run: npm ci
 
       - name: Lint 검사
+        if: steps.project.outputs.exists == 'true'
         run: npm run lint
 
       - name: 빌드
+        if: steps.project.outputs.exists == 'true'
         run: npm run build
