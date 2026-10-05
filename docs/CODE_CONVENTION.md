@@ -5,16 +5,16 @@
 
 ## 한눈에 보기
 
-| 대상 | 규칙 | 예시 |
-|---|---|---|
-| 컴포넌트 | PascalCase, `.jsx` | `TripCard.jsx` |
-| 커스텀 훅 | `use` + camelCase, `.js` | `useWeather.js` |
-| 일반 JS 파일 | camelCase, `.js` | `formatDate.js` |
-| 변수·함수 | camelCase | `tripList`, `getTrips()` |
-| 상수 | UPPER_SNAKE_CASE | `MAX_PHOTO_COUNT` |
-| boolean | `is` / `has` / `can`으로 시작 | `isLoading`, `hasPhotos` |
+| 대상          | 규칙                            | 예시                     |
+| ------------- | ------------------------------- | ------------------------ |
+| 컴포넌트      | PascalCase, `.jsx`              | `TripCard.jsx`           |
+| 커스텀 훅     | `use` + camelCase, `.js`        | `useWeather.js`          |
+| 일반 JS 파일  | camelCase, `.js`                | `formatDate.js`          |
+| 변수·함수     | camelCase                       | `tripList`, `getTrips()` |
+| 상수          | UPPER_SNAKE_CASE                | `MAX_PHOTO_COUNT`        |
+| boolean       | `is` / `has` / `can`으로 시작   | `isLoading`, `hasPhotos` |
 | 이벤트 핸들러 | 함수는 `handle~`, props는 `on~` | `handleClick`, `onClick` |
-| CSS 클래스 | camelCase | `.tripCard`, `.isActive` |
+| CSS 클래스    | camelCase                       | `.tripCard`, `.isActive` |
 
 ---
 
@@ -64,29 +64,29 @@ src/
 
 ```js
 // ✅ 좋은 예
-const trips = [];                    // 배열은 복수형
+const trips = []; // 배열은 복수형
 const selectedTrip = trips[0];
-const isLoading = true;              // boolean은 is/has/can
+const isLoading = true; // boolean은 is/has/can
 const hasPhotos = photos.length > 0;
-function getTripById(id) {}          // 함수는 동사로 시작
+function getTripById(id) {} // 함수는 동사로 시작
 function calcTotalDistance(stops) {}
 
 // ❌ 나쁜 예
-const data = [];                     // 무슨 데이터인지 알 수 없음
+const data = []; // 무슨 데이터인지 알 수 없음
 const flag = true;
 const tripList2 = [];
-function trip(id) {}                 // 동사가 없음
+function trip(id) {} // 동사가 없음
 ```
 
 ### 자주 쓰는 동사
 
-| 동사 | 의미 |
-|---|---|
-| `get~` | 값을 가져옴 (`getTrips`) |
-| `calc~` | 계산해서 반환 (`calcTotalDays`) |
-| `format~` | 보여주기 좋은 형태로 변환 (`formatDate`) |
-| `is~` / `has~` | true/false 반환 (`isDomestic`) |
-| `handle~` | 이벤트 처리 (`handleUpload`) |
+| 동사           | 의미                                     |
+| -------------- | ---------------------------------------- |
+| `get~`         | 값을 가져옴 (`getTrips`)                 |
+| `calc~`        | 계산해서 반환 (`calcTotalDays`)          |
+| `format~`      | 보여주기 좋은 형태로 변환 (`formatDate`) |
+| `is~` / `has~` | true/false 반환 (`isDomestic`)           |
+| `handle~`      | 이벤트 처리 (`handleUpload`)             |
 
 ---
 
@@ -129,20 +129,28 @@ export default function TripCard({ trip }) {
 
   ```jsx
   // ✅
-  {trips.map((trip) => <TripCard key={trip.id} trip={trip} />)}
+  {
+    trips.map((trip) => <TripCard key={trip.id} trip={trip} />);
+  }
 
   // ❌
-  {trips.map((trip, i) => <TripCard key={i} trip={trip} />)}
+  {
+    trips.map((trip, i) => <TripCard key={i} trip={trip} />);
+  }
   ```
 
 - 조건부 렌더링에서 숫자를 `&&` 앞에 두지 않습니다. 0이 화면에 그대로 찍힙니다.
 
   ```jsx
   // ❌ photos.length가 0이면 화면에 "0"이 보임
-  {photos.length && <Gallery photos={photos} />}
+  {
+    photos.length && <Gallery photos={photos} />;
+  }
 
   // ✅
-  {photos.length > 0 && <Gallery photos={photos} />}
+  {
+    photos.length > 0 && <Gallery photos={photos} />;
+  }
   ```
 
 ---
@@ -171,12 +179,12 @@ export default function TripCard({ trip }) {
 
 상태의 성격에 따라 둘 곳을 정합니다.
 
-| 상태 | 어디에 | 예시 |
-|---|---|---|
-| 한 컴포넌트에서만 쓰는 값 | `useState` | 드롭다운 열림 여부 |
-| URL에 남아야 하는 값 | `useSearchParams` | 아카이브 필터(1Y/2Y/ALL), 선택한 여행 |
-| 여러 페이지가 같이 쓰는 값 | Zustand 스토어 | 업로드 → 초안 → 사진 정리 진행 상태 |
-| 서버·목업에서 가져오는 데이터 | `services/` 함수 | 여행 목록, 날씨 |
+| 상태                          | 어디에            | 예시                                  |
+| ----------------------------- | ----------------- | ------------------------------------- |
+| 한 컴포넌트에서만 쓰는 값     | `useState`        | 드롭다운 열림 여부                    |
+| URL에 남아야 하는 값          | `useSearchParams` | 아카이브 필터(1Y/2Y/ALL), 선택한 여행 |
+| 여러 페이지가 같이 쓰는 값    | Zustand 스토어    | 업로드 → 초안 → 사진 정리 진행 상태   |
+| 서버·목업에서 가져오는 데이터 | `services/` 함수  | 여행 목록, 날씨                       |
 
 ### 규칙
 
@@ -246,7 +254,8 @@ export default function TripCard({ trip }) {
 
   ```js
   // ❌
-  if (photos.length > 50) {}
+  if (photos.length > 50) {
+  }
 
   // ✅ constants/upload.js
   export const MAX_PHOTO_COUNT = 50;
@@ -254,9 +263,9 @@ export default function TripCard({ trip }) {
 
 ### export 방식
 
-| 파일 | 방식 |
-|---|---|
-| 컴포넌트, 페이지 | `export default` |
+| 파일                              | 방식             |
+| --------------------------------- | ---------------- |
+| 컴포넌트, 페이지                  | `export default` |
 | utils, services, constants, hooks | `export` (named) |
 
 ### import 순서
