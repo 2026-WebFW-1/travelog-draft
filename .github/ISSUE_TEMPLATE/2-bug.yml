@@ -1,7 +1,7 @@
 name: 🐛 버그
 description: 의도와 다르게 동작하는 문제를 알릴 때 사용해요
 title: "fix: "
-labels: ["bug"]
+labels: ["fix"]
 body:
   - type: markdown
     attributes:
