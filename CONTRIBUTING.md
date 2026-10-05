@@ -5,6 +5,50 @@
 > - 📖 [Git 규칙](docs/GIT_CONVENTION.md): 브랜치, 커밋, PR
 > - 📖 [코드 컨벤션](docs/CODE_CONVENTION.md): 폴더 구조, 이름 규칙, 컴포넌트·상태·스타일
 
+## 처음 세팅하기
+
+### 1. Node 26 설치
+
+Node 버전은 `.nvmrc`에 적혀 있어요. [nvm](https://github.com/nvm-sh/nvm)을 쓰면 프로젝트 폴더에서 아래 명령으로 맞출 수 있어요.
+
+```bash
+nvm install
+nvm use
+```
+
+### 2. pnpm 설치
+
+패키지 매니저는 **pnpm**을 써요. 컴퓨터에 한 번만 설치하면 돼요.
+
+```bash
+npm install -g pnpm
+```
+
+설치한 pnpm 버전이 달라도 괜찮아요. 프로젝트 안에서는 `package.json`에 고정된 버전(12.9.1)을 자동으로 받아서 실행해요.
+
+> `npm install`은 에러가 나도록 막혀 있어요. 패키지 설치와 실행은 항상 `pnpm`으로 해 주세요.
+
+### 3. 패키지 설치하고 실행
+
+```bash
+pnpm install
+pnpm dev
+```
+
+### 4. VS Code 확장 설치
+
+프로젝트를 열면 **ESLint**, **Prettier** 확장 설치를 추천하는 알림이 떠요. 설치하면 저장할 때 자동으로 포맷이 맞춰지고 고칠 수 있는 린트 오류도 고쳐져요.
+
+### 자주 쓰는 명령어
+
+| 명령어            | 하는 일                            |
+| ----------------- | ---------------------------------- |
+| `pnpm dev`        | 개발 서버 실행                     |
+| `pnpm build`      | 배포용 빌드 (`dist/`)              |
+| `pnpm lint`       | ESLint 검사. CI에서도 실행돼요     |
+| `pnpm format`     | 모든 파일을 Prettier로 포맷        |
+| `pnpm add 패키지` | 패키지 추가 (`-D`를 붙이면 개발용) |
+
 ## 작업 흐름
 
 ```
@@ -54,5 +98,6 @@
 - `main`에 직접 push
 - `git push --force`
 - `.env`, `node_modules`, `dist`, `.DS_Store` 커밋
+- `npm install` 사용 (`pnpm`만 사용해요)
 - 원본 사진 커밋 (WebP로 변환, 1장당 500KB 이하로)
 - 이슈 없이 작업 시작
