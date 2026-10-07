@@ -1,9 +1,3 @@
-*,
-*::before,
-*::after {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-}
+/* box-sizing, body margin 같은 기본 초기화는 Tailwind의 Preflight가 해 줘요 */
+@import 'tailwindcss';
+@import './tokens.css';
