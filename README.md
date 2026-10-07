@@ -5,6 +5,7 @@
 ## 기술 스택
 
 - React 19 + Vite 8 (JavaScript)
+- Tailwind CSS 4
 - pnpm 12
 - ESLint, Prettier
 
