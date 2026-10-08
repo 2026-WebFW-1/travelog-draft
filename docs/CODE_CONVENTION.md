@@ -5,16 +5,16 @@
 
 ## 한눈에 보기
 
-| 대상          | 규칙                            | 예시                     |
-| ------------- | ------------------------------- | ------------------------ |
-| 컴포넌트      | PascalCase, `.jsx`              | `TripCard.jsx`           |
-| 커스텀 훅     | `use` + camelCase, `.js`        | `useWeather.js`          |
-| 일반 JS 파일  | camelCase, `.js`                | `formatDate.js`          |
-| 변수·함수     | camelCase                       | `tripList`, `getTrips()` |
-| 상수          | UPPER_SNAKE_CASE                | `MAX_PHOTO_COUNT`        |
-| boolean       | `is` / `has` / `can`으로 시작   | `isLoading`, `hasPhotos` |
-| 이벤트 핸들러 | 함수는 `handle~`, props는 `on~` | `handleClick`, `onClick` |
-| CSS 클래스    | camelCase                       | `.tripCard`, `.isActive` |
+| 대상          | 규칙                            | 예시                              |
+| ------------- | ------------------------------- | --------------------------------- |
+| 컴포넌트      | PascalCase, `.jsx`              | `TripCard.jsx`                    |
+| 커스텀 훅     | `use` + camelCase, `.js`        | `useWeather.js`                   |
+| 일반 JS 파일  | camelCase, `.js`                | `formatDate.js`                   |
+| 변수·함수     | camelCase                       | `tripList`, `getTrips()`          |
+| 상수          | UPPER_SNAKE_CASE                | `MAX_PHOTO_COUNT`                 |
+| boolean       | `is` / `has` / `can`으로 시작   | `isLoading`, `hasPhotos`          |
+| 이벤트 핸들러 | 함수는 `handle~`, props는 `on~` | `handleClick`, `onClick`          |
+| 스타일        | Tailwind 클래스, 조건부는 `cn`  | `cn('p-4', isActive && 'bg-ink')` |
 
 ---
 
@@ -25,7 +25,6 @@ src/
 ├─ pages/            라우트 하나 = 폴더 하나
 │  └─ MapPage/
 │     ├─ MapPage.jsx
-│     ├─ MapPage.module.css
 │     └─ RouteLine.jsx     이 페이지에서만 쓰는 컴포넌트는 여기에
 ├─ components/       2개 이상의 페이지에서 쓰는 공통 컴포넌트
 │  ├─ common/        Button, Tabs, Toast, Skeleton ...
@@ -34,9 +33,9 @@ src/
 ├─ stores/           전역 상태 (Zustand)
 ├─ services/         데이터 읽기, API 호출
 ├─ data/             목업 JSON
-├─ utils/            순수 함수 (날짜 변환, 거리 계산 ...)
+├─ utils/            순수 함수 (날짜 변환, 거리 계산, cn ...)
 ├─ constants/        상수
-├─ styles/           전역 CSS, 디자인 토큰
+├─ styles/           global.css (Tailwind 불러오기), tokens.css (디자인 토큰)
 ├─ types.js          데이터 구조 정의 (JSDoc)
 ├─ App.jsx
 └─ main.jsx
@@ -100,8 +99,6 @@ import { useState } from 'react';
 import Button from '@/components/common/Button';
 import { formatDate } from '@/utils/formatDate';
 
-import styles from './TripCard.module.css';
-
 export default function TripCard({ trip }) {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -110,9 +107,9 @@ export default function TripCard({ trip }) {
   };
 
   return (
-    <article className={styles.tripCard}>
-      <h3>{trip.city}</h3>
-      <p>{formatDate(trip.start)}</p>
+    <article className="bg-surface rounded-2xl p-4">
+      <h3 className="text-ink text-lg font-bold">{trip.city}</h3>
+      <p className="text-muted text-sm">{formatDate(trip.start)}</p>
       <Button onClick={handleToggle}>{isOpen ? '접기' : '더 보기'}</Button>
     </article>
   );
@@ -217,29 +214,53 @@ export default function TripCard({ trip }) {
 
 ## 6. 스타일
 
-- **CSS Modules**를 사용합니다: `TripCard.module.css`
-- 색, 글꼴, 간격은 `styles/tokens.css`의 **CSS 변수**를 씁니다. 색상 코드를 직접 적지 않습니다.
+- **Tailwind CSS v4**를 사용합니다. 클래스는 `className`에 바로 적습니다. 클래스 순서는 저장할 때 Prettier가 정렬해 줍니다.
+- 색, 글꼴, 둥근 모서리 같은 디자인 값은 `styles/tokens.css`의 `@theme`에 정의하고, **정의한 토큰 클래스만** 씁니다. 색상 코드를 직접 적지 않습니다.
 
   ```css
-  /* ✅ */
-  .tripCard {
-    color: var(--color-ink);
-    padding: var(--space-4);
-  }
-
-  /* ❌ */
-  .tripCard {
-    color: #111;
-    padding: 16px;
+  /* styles/tokens.css */
+  @theme {
+    --color-ink: #111;
+    --color-accent: #d6307a;
   }
   ```
-
-- 인라인 스타일(`style={{ }}`)은 **값이 계속 바뀌는 경우에만** 씁니다 (지도 좌표, 애니메이션 진행률 등).
-- 여러 클래스를 조건에 따라 붙일 때는 템플릿 문자열을 씁니다.
 
   ```jsx
-  <li className={`${styles.tab} ${isActive ? styles.isActive : ''}`}>
+  // ✅ 토큰에서 만들어진 클래스
+  <p className="text-ink">
+
+  // ❌ 대괄호로 값을 직접 적기
+  <p className="text-[#111]">
   ```
+
+- 간격은 Tailwind 기본 단위(`p-4` = 16px)를 씁니다. `p-[13px]`처럼 대괄호 값은 피그마 수치를 맞추려고 꼭 필요할 때만 씁니다.
+- 화면 크기는 **모바일을 기본**으로 쓰고, 웹은 `lg:`(1024px 이상)를 붙여 덮어씁니다.
+
+  ```jsx
+  <div className="flex flex-col gap-4 lg:flex-row">
+  ```
+
+- 여러 클래스를 조건에 따라 붙일 때는 `@/utils/cn`의 `cn`을 씁니다. 같은 종류 클래스가 겹치면 뒤의 것이 이깁니다.
+
+  ```jsx
+  <li className={cn('px-3 py-1 text-muted', isActive && 'bg-ink text-white')}>
+  ```
+
+- 공통 컴포넌트는 `className` props를 받아 `cn`으로 합칩니다. 쓰는 쪽에서 여백이나 크기를 바꿀 수 있게 하기 위해서입니다.
+
+  ```jsx
+  export default function Button({ className, children, ...props }) {
+    return (
+      <button className={cn('bg-ink rounded-full px-4 py-2 text-white', className)} {...props}>
+        {children}
+      </button>
+    );
+  }
+  ```
+
+- 클래스가 너무 길어지면 `@apply`로 묶지 말고 **컴포넌트로 나눕니다.**
+- `@keyframes` 애니메이션은 `tokens.css`의 `@theme`에 `--animate-*`와 함께 정의하고 `animate-*` 클래스로 씁니다.
+- 인라인 스타일(`style={{ }}`)은 **값이 계속 바뀌는 경우에만** 씁니다 (지도 좌표, 애니메이션 진행률 등).
 
 ---
 
@@ -283,9 +304,6 @@ import { getTrips } from '@/services/tripService';
 
 // 3. 같은 폴더 (상대경로)
 import RouteLine from './RouteLine';
-
-// 4. 스타일
-import styles from './MapPage.module.css';
 ```
 
 - 다른 폴더의 파일은 `../../`가 아니라 **`@/` 절대경로**로 불러옵니다.
