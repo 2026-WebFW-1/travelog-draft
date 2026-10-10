@@ -1,0 +1,1159 @@
+{
+  "personaId": "seojin",
+  "generatedBy": "mock/reference-group.mjs",
+  "home": {
+    "lat": 37.55789,
+    "lng": 126.92071
+  },
+  "stops": [
+    {
+      "id": "p_c2a066",
+      "lat": 37.55789,
+      "lng": 126.92071,
+      "offset": "+09:00",
+      "from": "2024-03-04T18:38:50",
+      "to": "2024-07-07T17:55:57",
+      "days": 126,
+      "photoIds": [
+        "p_c2a066",
+        "p_eb2d91",
+        "p_130df1",
+        "p_e8a7d1",
+        "p_7433e8",
+        "p_19b0d8",
+        "p_f52655",
+        "p_3e2488",
+        "p_3fe621",
+        "p_398102",
+        "p_bd0b76",
+        "p_6a6a25",
+        "p_eaad7b",
+        "p_634989",
+        "p_f721eb",
+        "p_51bd32",
+        "p_584a79",
+        "p_553e75",
+        "p_b8b0ef",
+        "p_550551",
+        "p_b0ca52",
+        "p_95685c",
+        "p_29a751",
+        "p_7c0983",
+        "p_923a5e",
+        "p_5ad4e6",
+        "p_419602",
+        "p_82708d",
+        "p_194935",
+        "p_71e560",
+        "p_d6a3ce",
+        "p_a96834",
+        "p_fe1ea1",
+        "p_376aa0",
+        "p_217454",
+        "p_361b27",
+        "p_7739bf",
+        "p_160b76"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_356b49",
+      "lat": 13.7538,
+      "lng": 100.51413,
+      "offset": "+07:00",
+      "from": "2024-07-11T20:10:08",
+      "to": "2024-07-13T19:40:37",
+      "days": 3,
+      "photoIds": [
+        "p_356b49",
+        "p_e0ee2b",
+        "p_b86559",
+        "p_e5e9cf"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "방콕",
+        "country": "태국",
+        "cc": "TH"
+      }
+    },
+    {
+      "id": "p_75d831",
+      "lat": 16.03095,
+      "lng": 108.17908,
+      "offset": "+07:00",
+      "from": "2024-07-14T16:10:44",
+      "to": "2024-07-16T10:20:43",
+      "days": 3,
+      "photoIds": [
+        "p_75d831",
+        "p_e96844",
+        "p_6878b5",
+        "p_aa343d"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "다낭",
+        "country": "베트남",
+        "cc": "VN"
+      }
+    },
+    {
+      "id": "p_83eebd",
+      "lat": 37.54703,
+      "lng": 126.92967,
+      "offset": "+09:00",
+      "from": "2024-07-17T22:42:26",
+      "to": "2024-08-11T13:06:06",
+      "days": 26,
+      "photoIds": [
+        "p_83eebd",
+        "p_932c2c",
+        "p_c8ae6b",
+        "p_982a10",
+        "p_b15f9e",
+        "p_465c52",
+        "p_a134bf",
+        "p_f990d8"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_8e704b",
+      "lat": 37.85583,
+      "lng": 128.84773,
+      "offset": "+09:00",
+      "from": "2024-08-15T15:00:43",
+      "to": "2024-08-16T16:30:42",
+      "days": 2,
+      "photoIds": [
+        "p_8e704b",
+        "p_621328",
+        "p_328c3e"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "강릉",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_5a1adf",
+      "lat": 37.55951,
+      "lng": 126.92846,
+      "offset": "+09:00",
+      "from": "2024-08-17T22:19:32",
+      "to": "2024-09-30T21:46:45",
+      "days": 45,
+      "photoIds": [
+        "p_5a1adf",
+        "p_6b3282",
+        "p_8963fb",
+        "p_0555a6",
+        "p_3fe168",
+        "p_003b68",
+        "p_ba692b",
+        "p_afcaef",
+        "p_56ea4a",
+        "p_5273e0",
+        "p_751fed",
+        "p_e4f045",
+        "p_8b9dea",
+        "p_c57943",
+        "p_b0a6e6"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_0c434a",
+      "lat": 33.572,
+      "lng": 130.43458,
+      "offset": "+09:00",
+      "from": "2024-10-03T13:20:27",
+      "to": "2024-10-05T11:00:20",
+      "days": 3,
+      "photoIds": [
+        "p_0c434a",
+        "p_a72e51",
+        "p_8831d8",
+        "p_654bd8"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "후쿠오카",
+        "country": "일본",
+        "cc": "JP"
+      }
+    },
+    {
+      "id": "p_9bea59",
+      "lat": 37.53941,
+      "lng": 126.91827,
+      "offset": "+09:00",
+      "from": "2024-10-06T22:29:04",
+      "to": "2024-11-17T14:14:19",
+      "days": 43,
+      "photoIds": [
+        "p_9bea59",
+        "p_bc0093",
+        "p_173e5e",
+        "p_31ec72",
+        "p_d1a066",
+        "p_ccde0f",
+        "p_af52d6",
+        "p_4159c6",
+        "p_1639c7",
+        "p_86b752",
+        "p_4e8359",
+        "p_39c50c",
+        "p_7f5238"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_6dd203",
+      "lat": 34.99859,
+      "lng": 135.76563,
+      "offset": "+09:00",
+      "from": "2024-11-22T14:10:02",
+      "to": "2024-11-25T10:30:13",
+      "days": 4,
+      "photoIds": [
+        "p_6dd203",
+        "p_f1121c",
+        "p_10c42a",
+        "p_832f25",
+        "p_b5c9ea",
+        "p_7c5dae",
+        "p_9dd88e",
+        "p_437411",
+        "p_d3ae09",
+        "p_34d794",
+        "p_21ec44",
+        "p_b9a6c0",
+        "p_517e5b",
+        "p_81af2d"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "교토",
+        "country": "일본",
+        "cc": "JP"
+      }
+    },
+    {
+      "id": "p_bf74fc",
+      "lat": 37.55482,
+      "lng": 126.92923,
+      "offset": "+09:00",
+      "from": "2024-11-26T22:51:41",
+      "to": "2025-01-21T14:53:19",
+      "days": 57,
+      "photoIds": [
+        "p_bf74fc",
+        "p_f45ede",
+        "p_1f5457",
+        "p_b49b89",
+        "p_af63e6",
+        "p_195e20",
+        "p_371f54",
+        "p_aca665",
+        "p_76d50d",
+        "p_72406a",
+        "p_757361",
+        "p_929e03",
+        "p_57278a",
+        "p_58a3de",
+        "p_61f250",
+        "p_f24614",
+        "p_9d19f3",
+        "p_d2e5c1"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_70c91e",
+      "lat": 35.68062,
+      "lng": 139.73358,
+      "offset": "+09:00",
+      "from": "2025-01-23T16:10:44",
+      "to": "2025-01-25T18:30:29",
+      "days": 3,
+      "photoIds": [
+        "p_70c91e",
+        "p_9bd2be",
+        "p_eca011",
+        "p_015886"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "도쿄",
+        "country": "일본",
+        "cc": "JP"
+      }
+    },
+    {
+      "id": "p_7eba47",
+      "lat": 37.55418,
+      "lng": 126.92663,
+      "offset": "+09:00",
+      "from": "2025-01-26T22:34:25",
+      "to": "2025-02-04T19:51:12",
+      "days": 10,
+      "photoIds": [
+        "p_7eba47",
+        "p_2c1682",
+        "p_5eed04"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_c55a2f",
+      "lat": 43.09956,
+      "lng": 141.25089,
+      "offset": "+09:00",
+      "from": "2025-02-06T16:00:17",
+      "to": "2025-02-08T18:10:18",
+      "days": 3,
+      "photoIds": [
+        "p_c55a2f",
+        "p_3e56f2",
+        "p_5795c1",
+        "p_fc772c",
+        "p_b4e817",
+        "p_197bbc",
+        "p_ab9dc7"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "삿포로",
+        "country": "일본",
+        "cc": "JP"
+      }
+    },
+    {
+      "id": "p_ec0535",
+      "lat": 37.5536,
+      "lng": 126.9306,
+      "offset": "+09:00",
+      "from": "2025-02-09T22:08:33",
+      "to": "2025-02-25T17:52:28",
+      "days": 17,
+      "photoIds": [
+        "p_ec0535",
+        "p_754ed3",
+        "p_01daa7",
+        "p_44ca3d",
+        "p_4ddb9d"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_aeecfe",
+      "lat": 35.1214,
+      "lng": 129.07056,
+      "offset": "+09:00",
+      "from": "2025-02-28T15:20:49",
+      "to": "2025-03-01T16:00:25",
+      "days": 2,
+      "photoIds": [
+        "p_aeecfe",
+        "p_ab9d23",
+        "p_f13ea7",
+        "p_3af299",
+        "p_ca6f69"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "부산",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_c98ca9",
+      "lat": 35.8136,
+      "lng": 129.28165,
+      "offset": "+09:00",
+      "from": "2025-03-01T19:30:33",
+      "to": "2025-03-02T16:00:12",
+      "days": 2,
+      "photoIds": [
+        "p_c98ca9",
+        "p_a4c7da",
+        "p_066f75",
+        "p_4ea1ca"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "경주",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_a329d6",
+      "lat": 37.55117,
+      "lng": 126.9262,
+      "offset": "+09:00",
+      "from": "2025-03-03T22:52:28",
+      "to": "2025-06-26T14:11:31",
+      "days": 116,
+      "photoIds": [
+        "p_a329d6",
+        "p_1b7d39",
+        "p_78d5c4",
+        "p_8b9a12",
+        "p_252011",
+        "p_74844a",
+        "p_be3140",
+        "p_de2194",
+        "p_b6ff54",
+        "p_de78ed",
+        "p_367767",
+        "p_b123c9",
+        "p_4063b0",
+        "p_8f4b59",
+        "p_9abe9a",
+        "p_b7421d",
+        "p_a2b943",
+        "p_ccafba",
+        "p_c3fa58",
+        "p_3e18ad",
+        "p_b7e0b0",
+        "p_214795",
+        "p_48f536",
+        "p_1e52da",
+        "p_b3631d",
+        "p_05fe2a",
+        "p_b7a119",
+        "p_d51998",
+        "p_064b0f",
+        "p_af4160",
+        "p_dab5d6",
+        "p_f2fcc6",
+        "p_6680f5",
+        "p_29e3ff",
+        "p_894344"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_3c1060",
+      "lat": 49.30877,
+      "lng": -123.11272,
+      "offset": "-07:00",
+      "from": "2025-06-28T18:30:51",
+      "to": "2025-08-23T19:50:07",
+      "days": 57,
+      "photoIds": [
+        "p_3c1060",
+        "p_837519",
+        "p_b2a9a9",
+        "p_14460a",
+        "p_014190",
+        "p_c4be0a"
+      ],
+      "isHome": false,
+      "chapter": true,
+      "place": {
+        "city": "밴쿠버",
+        "country": "캐나다",
+        "cc": "CA"
+      }
+    },
+    {
+      "id": "p_606b31",
+      "lat": 51.3057,
+      "lng": -115.99327,
+      "offset": "-06:00",
+      "from": "2025-08-25T17:00:00",
+      "to": "2025-08-26T11:30:08",
+      "days": 2,
+      "photoIds": [
+        "p_606b31",
+        "p_496f15",
+        "p_bfe8c0"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "밴프",
+        "country": "캐나다",
+        "cc": "CA"
+      }
+    },
+    {
+      "id": "p_286991",
+      "lat": 37.55372,
+      "lng": 126.92069,
+      "offset": "+09:00",
+      "from": "2025-08-27T22:01:23",
+      "to": "2025-09-17T14:33:42",
+      "days": 22,
+      "photoIds": [
+        "p_286991",
+        "p_20c404",
+        "p_e0d194",
+        "p_f83b86",
+        "p_c04d15",
+        "p_25fb90",
+        "p_18ae40"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_8a6ac3",
+      "lat": 34.67363,
+      "lng": 135.51595,
+      "offset": "+09:00",
+      "from": "2025-09-19T19:30:03",
+      "to": "2025-09-21T15:00:06",
+      "days": 3,
+      "photoIds": [
+        "p_8a6ac3",
+        "p_1c9e2e",
+        "p_e02ff7",
+        "p_8b6f51"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "오사카",
+        "country": "일본",
+        "cc": "JP"
+      }
+    },
+    {
+      "id": "p_20b6c9",
+      "lat": 37.54731,
+      "lng": 126.91395,
+      "offset": "+09:00",
+      "from": "2025-09-22T22:06:49",
+      "to": "2025-09-29T17:19:32",
+      "days": 8,
+      "photoIds": [
+        "p_20b6c9",
+        "p_9fdbf7",
+        "p_c2b391",
+        "p_070cdd"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_f309fe",
+      "lat": 35.81507,
+      "lng": 127.14967,
+      "offset": "+09:00",
+      "from": "2025-10-04T15:00:47",
+      "to": "2025-10-05T10:00:01",
+      "days": 2,
+      "photoIds": [
+        "p_f309fe",
+        "p_50c3c9",
+        "p_c952e9"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "전주",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_7b8c41",
+      "lat": 37.55644,
+      "lng": 126.91608,
+      "offset": "+09:00",
+      "from": "2025-10-06T22:57:23",
+      "to": "2025-12-19T20:54:16",
+      "days": 75,
+      "photoIds": [
+        "p_7b8c41",
+        "p_3a1911",
+        "p_91ff72",
+        "p_68e52d",
+        "p_8ef390",
+        "p_6058ed",
+        "p_2dd03b",
+        "p_7df13d",
+        "p_a6baab",
+        "p_2ea4ef",
+        "p_c342ff",
+        "p_0f7db5",
+        "p_863304",
+        "p_46acac",
+        "p_e35e86",
+        "p_5f46b7",
+        "p_fd3ec3",
+        "p_dc5ada",
+        "p_7c3532",
+        "p_c36e57",
+        "p_9b619a",
+        "p_bc71d4",
+        "p_e80cbd"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_c60246",
+      "lat": 48.85673,
+      "lng": 2.34657,
+      "offset": "+01:00",
+      "from": "2025-12-26T15:00:03",
+      "to": "2025-12-30T11:00:51",
+      "days": 5,
+      "photoIds": [
+        "p_c60246",
+        "p_a17908",
+        "p_4a90b2"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "파리",
+        "country": "프랑스",
+        "cc": "FR"
+      }
+    },
+    {
+      "id": "p_677fcc",
+      "lat": 51.51155,
+      "lng": -0.1136,
+      "offset": "+00:00",
+      "from": "2026-01-01T13:00:46",
+      "to": "2026-01-03T15:20:16",
+      "days": 3,
+      "photoIds": [
+        "p_677fcc",
+        "p_c9403e",
+        "p_8d0d6f",
+        "p_fa9e4a"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "런던",
+        "country": "영국",
+        "cc": "GB"
+      }
+    },
+    {
+      "id": "p_405d61",
+      "lat": 41.39927,
+      "lng": 2.16515,
+      "offset": "+01:00",
+      "from": "2026-01-05T14:00:24",
+      "to": "2026-01-08T11:00:26",
+      "days": 4,
+      "photoIds": [
+        "p_405d61",
+        "p_b19296",
+        "p_d6a09c",
+        "p_f3ecba"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "바르셀로나",
+        "country": "스페인",
+        "cc": "ES"
+      }
+    },
+    {
+      "id": "p_6e33c3",
+      "lat": 37.55835,
+      "lng": 126.92938,
+      "offset": "+09:00",
+      "from": "2026-01-09T22:45:32",
+      "to": "2026-05-20T14:47:19",
+      "days": 132,
+      "photoIds": [
+        "p_6e33c3",
+        "p_59d895",
+        "p_85203e",
+        "p_8c66b9",
+        "p_62474d",
+        "p_c5b878",
+        "p_d4d8a7",
+        "p_42be6a",
+        "p_5e9304",
+        "p_05ad08",
+        "p_96f90c",
+        "p_c4b6ad",
+        "p_68f8e8",
+        "p_e2ac90",
+        "p_921a40",
+        "p_ac67f7",
+        "p_522d2d",
+        "p_942888",
+        "p_ab33af",
+        "p_2cd5a3",
+        "p_46902d",
+        "p_e9b4bc",
+        "p_d3c656",
+        "p_cf4ab5",
+        "p_f5e82b",
+        "p_12e775",
+        "p_bac390",
+        "p_22c821",
+        "p_d1c7c9",
+        "p_a026ea",
+        "p_204569",
+        "p_df4e7a",
+        "p_b05e75",
+        "p_cea326",
+        "p_f7f3b4",
+        "p_e51f48",
+        "p_dc2fde",
+        "p_8fce4e"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_c1e96f",
+      "lat": 34.83558,
+      "lng": 127.56808,
+      "offset": "+09:00",
+      "from": "2026-05-23T14:00:19",
+      "to": "2026-05-25T13:30:41",
+      "days": 3,
+      "photoIds": [
+        "p_c1e96f",
+        "p_a7958b",
+        "p_aeb3bc",
+        "p_cd07f6",
+        "p_1f8c47",
+        "p_506e1a"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "여수",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_1f0f26",
+      "lat": 37.5553,
+      "lng": 126.90923,
+      "offset": "+09:00",
+      "from": "2026-05-26T22:22:06",
+      "to": "2026-07-15T21:31:13",
+      "days": 51,
+      "photoIds": [
+        "p_1f0f26",
+        "p_143e87",
+        "p_0dc57f",
+        "p_98e855",
+        "p_3f1c8e",
+        "p_cbc635",
+        "p_824c88",
+        "p_5eeb56",
+        "p_22a13f",
+        "p_43f2d7",
+        "p_1983ab",
+        "p_9f920e",
+        "p_31cd3f",
+        "p_8a5b48",
+        "p_336680"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_1eb564",
+      "lat": 38.17975,
+      "lng": 128.51025,
+      "offset": "+09:00",
+      "from": "2026-07-18T16:00:14",
+      "to": "2026-07-19T12:40:43",
+      "days": 2,
+      "photoIds": [
+        "p_1eb564",
+        "p_ea2e56",
+        "p_98c669",
+        "p_a9e014"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "속초",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_c0c0e1",
+      "lat": 37.56202,
+      "lng": 126.93406,
+      "offset": "+09:00",
+      "from": "2026-07-20T22:12:33",
+      "to": "2026-08-10T19:42:57",
+      "days": 22,
+      "photoIds": [
+        "p_c0c0e1",
+        "p_ce8a3e",
+        "p_68ad76",
+        "p_7b408c",
+        "p_2bdde1",
+        "p_7bd463"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    },
+    {
+      "id": "p_412fd8",
+      "lat": 41.01328,
+      "lng": 28.97518,
+      "offset": "+03:00",
+      "from": "2026-08-13T17:00:44",
+      "to": "2026-08-16T19:00:29",
+      "days": 4,
+      "photoIds": [
+        "p_412fd8",
+        "p_e424f1",
+        "p_6e7779",
+        "p_962143"
+      ],
+      "isHome": false,
+      "chapter": false,
+      "place": {
+        "city": "이스탄불",
+        "country": "튀르키예",
+        "cc": "TR"
+      }
+    },
+    {
+      "id": "p_17dba5",
+      "lat": 37.55598,
+      "lng": 126.93638,
+      "offset": "+09:00",
+      "from": "2026-08-17T22:42:20",
+      "to": "2026-10-03T16:21:41",
+      "days": 48,
+      "photoIds": [
+        "p_17dba5",
+        "p_69ff61",
+        "p_9c4738",
+        "p_28439e",
+        "p_8f8a0a",
+        "p_e2730c",
+        "p_433946",
+        "p_4b44fe",
+        "p_53a91b",
+        "p_caa566",
+        "p_3f1b5f",
+        "p_c91209",
+        "p_99232d",
+        "p_96cf36"
+      ],
+      "isHome": true,
+      "chapter": false,
+      "place": {
+        "city": "서울",
+        "country": "한국",
+        "cc": "KR"
+      }
+    }
+  ],
+  "trips": [
+    {
+      "id": "p_356b49",
+      "stopIds": [
+        "p_356b49",
+        "p_75d831"
+      ],
+      "from": "2024-07-11T20:10:08",
+      "to": "2024-07-16T10:20:43",
+      "days": 6,
+      "legs": [
+        {
+          "from": "p_356b49",
+          "to": "p_75d831",
+          "km": 862,
+          "mode": "flight"
+        }
+      ],
+      "autoName": "방콕 · 다낭"
+    },
+    {
+      "id": "p_8e704b",
+      "stopIds": [
+        "p_8e704b"
+      ],
+      "from": "2024-08-15T15:00:43",
+      "to": "2024-08-16T16:30:42",
+      "days": 2,
+      "legs": [],
+      "autoName": "강릉"
+    },
+    {
+      "id": "p_0c434a",
+      "stopIds": [
+        "p_0c434a"
+      ],
+      "from": "2024-10-03T13:20:27",
+      "to": "2024-10-05T11:00:20",
+      "days": 3,
+      "legs": [],
+      "autoName": "후쿠오카"
+    },
+    {
+      "id": "p_6dd203",
+      "stopIds": [
+        "p_6dd203"
+      ],
+      "from": "2024-11-22T14:10:02",
+      "to": "2024-11-25T10:30:13",
+      "days": 4,
+      "legs": [],
+      "autoName": "교토"
+    },
+    {
+      "id": "p_70c91e",
+      "stopIds": [
+        "p_70c91e"
+      ],
+      "from": "2025-01-23T16:10:44",
+      "to": "2025-01-25T18:30:29",
+      "days": 3,
+      "legs": [],
+      "autoName": "도쿄"
+    },
+    {
+      "id": "p_c55a2f",
+      "stopIds": [
+        "p_c55a2f"
+      ],
+      "from": "2025-02-06T16:00:17",
+      "to": "2025-02-08T18:10:18",
+      "days": 3,
+      "legs": [],
+      "autoName": "삿포로"
+    },
+    {
+      "id": "p_aeecfe",
+      "stopIds": [
+        "p_aeecfe",
+        "p_c98ca9"
+      ],
+      "from": "2025-02-28T15:20:49",
+      "to": "2025-03-02T16:00:12",
+      "days": 3,
+      "legs": [
+        {
+          "from": "p_aeecfe",
+          "to": "p_c98ca9",
+          "km": 79,
+          "mode": "car"
+        }
+      ],
+      "autoName": "부산 · 경주"
+    },
+    {
+      "id": "p_3c1060",
+      "stopIds": [
+        "p_3c1060",
+        "p_606b31"
+      ],
+      "from": "2025-06-28T18:30:51",
+      "to": "2025-08-26T11:30:08",
+      "days": 60,
+      "legs": [
+        {
+          "from": "p_3c1060",
+          "to": "p_606b31",
+          "km": 552,
+          "mode": "train"
+        }
+      ],
+      "autoName": "밴쿠버 · 밴프"
+    },
+    {
+      "id": "p_8a6ac3",
+      "stopIds": [
+        "p_8a6ac3"
+      ],
+      "from": "2025-09-19T19:30:03",
+      "to": "2025-09-21T15:00:06",
+      "days": 3,
+      "legs": [],
+      "autoName": "오사카"
+    },
+    {
+      "id": "p_f309fe",
+      "stopIds": [
+        "p_f309fe"
+      ],
+      "from": "2025-10-04T15:00:47",
+      "to": "2025-10-05T10:00:01",
+      "days": 2,
+      "legs": [],
+      "autoName": "전주"
+    },
+    {
+      "id": "p_c60246",
+      "stopIds": [
+        "p_c60246",
+        "p_677fcc",
+        "p_405d61"
+      ],
+      "from": "2025-12-26T15:00:03",
+      "to": "2026-01-08T11:00:26",
+      "days": 14,
+      "legs": [
+        {
+          "from": "p_c60246",
+          "to": "p_677fcc",
+          "km": 343,
+          "mode": "train"
+        },
+        {
+          "from": "p_677fcc",
+          "to": "p_405d61",
+          "km": 1138,
+          "mode": "flight"
+        }
+      ],
+      "autoName": "파리 · 런던 · 바르셀로나"
+    },
+    {
+      "id": "p_c1e96f",
+      "stopIds": [
+        "p_c1e96f"
+      ],
+      "from": "2026-05-23T14:00:19",
+      "to": "2026-05-25T13:30:41",
+      "days": 3,
+      "legs": [],
+      "autoName": "여수"
+    },
+    {
+      "id": "p_1eb564",
+      "stopIds": [
+        "p_1eb564"
+      ],
+      "from": "2026-07-18T16:00:14",
+      "to": "2026-07-19T12:40:43",
+      "days": 2,
+      "legs": [],
+      "autoName": "속초"
+    },
+    {
+      "id": "p_412fd8",
+      "stopIds": [
+        "p_412fd8"
+      ],
+      "from": "2026-08-13T17:00:44",
+      "to": "2026-08-16T19:00:29",
+      "days": 4,
+      "legs": [],
+      "autoName": "이스탄불"
+    }
+  ],
+  "unlocated": [
+    "p_b99a33"
+  ],
+  "notes": [
+    {
+      "photoId": "p_b99a33",
+      "takenAt": "2025-06-28T12:40:10",
+      "note": "위치 없는 사진 예시(07b)"
+    }
+  ]
+}

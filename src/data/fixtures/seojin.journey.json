@@ -1,0 +1,1479 @@
+{
+  "personaId": "seojin",
+  "generatedBy": "mock/journey-fixture.mjs",
+  "about": "Journey: 앱 전체가 받는 모양(docs/인터페이스.md). 보정(exclude·transit·rename·mode)을 반영한 결과. 지점 이름은 인물 파일 값(앱에선 C의 reverseCity)",
+  "home": {
+    "lat": 37.55789,
+    "lng": 126.92071,
+    "city": "서울"
+  },
+  "stops": [
+    {
+      "id": "p_356b49",
+      "tripId": "p_356b49",
+      "lat": 13.7538,
+      "lng": 100.51413,
+      "city": "방콕",
+      "country": "태국",
+      "cc": "TH",
+      "from": "2024-07-11T20:10:08+07:00",
+      "to": "2024-07-13T19:40:37+07:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_356b49",
+        "p_e0ee2b",
+        "p_b86559",
+        "p_e5e9cf"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/bangkok-3.jpg"
+    },
+    {
+      "id": "p_75d831",
+      "tripId": "p_356b49",
+      "lat": 16.03095,
+      "lng": 108.17908,
+      "city": "다낭",
+      "country": "베트남",
+      "cc": "VN",
+      "from": "2024-07-14T16:10:44+07:00",
+      "to": "2024-07-16T10:20:43+07:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_75d831",
+        "p_e96844",
+        "p_6878b5",
+        "p_aa343d"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/danang-1.jpg"
+    },
+    {
+      "id": "p_8e704b",
+      "tripId": "p_8e704b",
+      "lat": 37.85583,
+      "lng": 128.84773,
+      "city": "강릉",
+      "country": "한국",
+      "cc": "KR",
+      "from": "2024-08-15T15:00:43+09:00",
+      "to": "2024-08-16T16:30:42+09:00",
+      "days": 2,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_8e704b",
+        "p_621328",
+        "p_328c3e"
+      ],
+      "photoCount": 3,
+      "coverFileKey": "public:/photos/gangneung-3.jpg"
+    },
+    {
+      "id": "p_0c434a",
+      "tripId": "p_0c434a",
+      "lat": 33.572,
+      "lng": 130.43458,
+      "city": "후쿠오카",
+      "country": "일본",
+      "cc": "JP",
+      "from": "2024-10-03T13:20:27+09:00",
+      "to": "2024-10-05T11:00:20+09:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_0c434a",
+        "p_a72e51",
+        "p_8831d8",
+        "p_654bd8"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/fukuoka-1.jpg"
+    },
+    {
+      "id": "p_6dd203",
+      "tripId": "p_6dd203",
+      "lat": 34.99859,
+      "lng": 135.76563,
+      "city": "교토",
+      "country": "일본",
+      "cc": "JP",
+      "from": "2024-11-22T14:10:02+09:00",
+      "to": "2024-11-25T10:30:13+09:00",
+      "days": 4,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_6dd203",
+        "p_f1121c",
+        "p_10c42a",
+        "p_832f25",
+        "p_b5c9ea",
+        "p_7c5dae",
+        "p_9dd88e",
+        "p_437411",
+        "p_d3ae09",
+        "p_34d794",
+        "p_21ec44",
+        "p_b9a6c0",
+        "p_517e5b",
+        "p_81af2d"
+      ],
+      "photoCount": 14,
+      "coverFileKey": "public:/photos/kyoto-11.jpg"
+    },
+    {
+      "id": "p_70c91e",
+      "tripId": "p_70c91e",
+      "lat": 35.68062,
+      "lng": 139.73358,
+      "city": "도쿄",
+      "country": "일본",
+      "cc": "JP",
+      "from": "2025-01-23T16:10:44+09:00",
+      "to": "2025-01-25T18:30:29+09:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_70c91e",
+        "p_9bd2be",
+        "p_eca011",
+        "p_015886"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/tokyo-1.jpg"
+    },
+    {
+      "id": "p_c55a2f",
+      "tripId": "p_c55a2f",
+      "lat": 43.09956,
+      "lng": 141.25089,
+      "city": "삿포로",
+      "country": "일본",
+      "cc": "JP",
+      "from": "2025-02-06T16:00:17+09:00",
+      "to": "2025-02-08T18:10:18+09:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_c55a2f",
+        "p_3e56f2",
+        "p_5795c1",
+        "p_fc772c",
+        "p_b4e817",
+        "p_197bbc",
+        "p_ab9dc7"
+      ],
+      "photoCount": 7,
+      "coverFileKey": "public:/photos/sapporo-3.jpg"
+    },
+    {
+      "id": "p_aeecfe",
+      "tripId": "p_aeecfe",
+      "lat": 35.1214,
+      "lng": 129.07056,
+      "city": "부산",
+      "country": "한국",
+      "cc": "KR",
+      "from": "2025-02-28T15:20:49+09:00",
+      "to": "2025-03-01T16:00:25+09:00",
+      "days": 2,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_aeecfe",
+        "p_ab9d23",
+        "p_f13ea7",
+        "p_3af299",
+        "p_ca6f69"
+      ],
+      "photoCount": 5,
+      "coverFileKey": "public:/photos/busan-1.jpg"
+    },
+    {
+      "id": "p_c98ca9",
+      "tripId": "p_aeecfe",
+      "lat": 35.8136,
+      "lng": 129.28165,
+      "city": "경주",
+      "country": "한국",
+      "cc": "KR",
+      "from": "2025-03-01T19:30:33+09:00",
+      "to": "2025-03-02T16:00:12+09:00",
+      "days": 2,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_c98ca9",
+        "p_a4c7da",
+        "p_066f75",
+        "p_4ea1ca"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/gyeongju-1.jpg"
+    },
+    {
+      "id": "p_3c1060",
+      "tripId": "p_3c1060",
+      "lat": 49.30877,
+      "lng": -123.11272,
+      "city": "밴쿠버",
+      "country": "캐나다",
+      "cc": "CA",
+      "from": "2025-06-28T18:30:51-07:00",
+      "to": "2025-08-23T19:50:07-07:00",
+      "days": 57,
+      "chapter": true,
+      "slug": "밴쿠버-2025",
+      "transit": false,
+      "photoIds": [
+        "p_3c1060",
+        "p_837519",
+        "p_b2a9a9",
+        "p_14460a",
+        "p_014190",
+        "p_c4be0a"
+      ],
+      "photoCount": 6,
+      "coverFileKey": "public:/photos/vancouver-6.jpg"
+    },
+    {
+      "id": "p_606b31",
+      "tripId": "p_3c1060",
+      "lat": 51.3057,
+      "lng": -115.99327,
+      "city": "밴프",
+      "country": "캐나다",
+      "cc": "CA",
+      "from": "2025-08-25T17:00:00-06:00",
+      "to": "2025-08-26T11:30:08-06:00",
+      "days": 2,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_606b31",
+        "p_496f15",
+        "p_bfe8c0"
+      ],
+      "photoCount": 3,
+      "coverFileKey": "public:/photos/banff-4.jpg"
+    },
+    {
+      "id": "p_8a6ac3",
+      "tripId": "p_8a6ac3",
+      "lat": 34.67363,
+      "lng": 135.51595,
+      "city": "오사카",
+      "country": "일본",
+      "cc": "JP",
+      "from": "2025-09-19T19:30:03+09:00",
+      "to": "2025-09-21T15:00:06+09:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_8a6ac3",
+        "p_1c9e2e",
+        "p_e02ff7",
+        "p_8b6f51"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/osaka-2.jpg"
+    },
+    {
+      "id": "p_f309fe",
+      "tripId": "p_f309fe",
+      "lat": 35.81507,
+      "lng": 127.14967,
+      "city": "전주",
+      "country": "한국",
+      "cc": "KR",
+      "from": "2025-10-04T15:00:47+09:00",
+      "to": "2025-10-05T10:00:01+09:00",
+      "days": 2,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_f309fe",
+        "p_50c3c9",
+        "p_c952e9"
+      ],
+      "photoCount": 3,
+      "coverFileKey": "public:/photos/jeonju-3.jpg"
+    },
+    {
+      "id": "p_c60246",
+      "tripId": "p_c60246",
+      "lat": 48.85673,
+      "lng": 2.34657,
+      "city": "파리",
+      "country": "프랑스",
+      "cc": "FR",
+      "from": "2025-12-26T15:00:03+01:00",
+      "to": "2025-12-30T11:00:51+01:00",
+      "days": 5,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_c60246",
+        "p_a17908",
+        "p_4a90b2"
+      ],
+      "photoCount": 3,
+      "coverFileKey": "public:/photos/paris-1.jpg"
+    },
+    {
+      "id": "p_677fcc",
+      "tripId": "p_c60246",
+      "lat": 51.51155,
+      "lng": -0.1136,
+      "city": "런던",
+      "country": "영국",
+      "cc": "GB",
+      "from": "2026-01-01T13:00:46+00:00",
+      "to": "2026-01-03T15:20:16+00:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_677fcc",
+        "p_c9403e",
+        "p_8d0d6f",
+        "p_fa9e4a"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/london-4.jpg"
+    },
+    {
+      "id": "p_405d61",
+      "tripId": "p_c60246",
+      "lat": 41.39927,
+      "lng": 2.16515,
+      "city": "바르셀로나",
+      "country": "스페인",
+      "cc": "ES",
+      "from": "2026-01-05T14:00:24+01:00",
+      "to": "2026-01-08T11:00:26+01:00",
+      "days": 4,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_405d61",
+        "p_b19296",
+        "p_d6a09c",
+        "p_f3ecba"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/barcelona-1.jpg"
+    },
+    {
+      "id": "p_c1e96f",
+      "tripId": "p_c1e96f",
+      "lat": 34.83558,
+      "lng": 127.56808,
+      "city": "여수",
+      "country": "한국",
+      "cc": "KR",
+      "from": "2026-05-23T14:00:19+09:00",
+      "to": "2026-05-25T13:30:41+09:00",
+      "days": 3,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_c1e96f",
+        "p_a7958b",
+        "p_aeb3bc",
+        "p_cd07f6",
+        "p_1f8c47",
+        "p_506e1a"
+      ],
+      "photoCount": 6,
+      "coverFileKey": "public:/photos/yeosu-1.jpg"
+    },
+    {
+      "id": "p_1eb564",
+      "tripId": "p_1eb564",
+      "lat": 38.17975,
+      "lng": 128.51025,
+      "city": "속초",
+      "country": "한국",
+      "cc": "KR",
+      "from": "2026-07-18T16:00:14+09:00",
+      "to": "2026-07-19T12:40:43+09:00",
+      "days": 2,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_1eb564",
+        "p_ea2e56",
+        "p_98c669",
+        "p_a9e014"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/sokcho-3.jpg"
+    },
+    {
+      "id": "p_412fd8",
+      "tripId": "p_412fd8",
+      "lat": 41.01328,
+      "lng": 28.97518,
+      "city": "이스탄불",
+      "country": "튀르키예",
+      "cc": "TR",
+      "from": "2026-08-13T17:00:44+03:00",
+      "to": "2026-08-16T19:00:29+03:00",
+      "days": 4,
+      "chapter": false,
+      "slug": null,
+      "transit": false,
+      "photoIds": [
+        "p_412fd8",
+        "p_e424f1",
+        "p_6e7779",
+        "p_962143"
+      ],
+      "photoCount": 4,
+      "coverFileKey": "public:/photos/istanbul-1.jpg"
+    }
+  ],
+  "legs": [
+    {
+      "id": "leg_1",
+      "tripId": "p_356b49",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_356b49",
+      "fromLatLng": [
+        37.55789,
+        126.92071
+      ],
+      "toLatLng": [
+        13.7538,
+        100.51413
+      ],
+      "departAt": "2024-07-11T17:01:21+09:00",
+      "arriveAt": "2024-07-11T20:10:08+07:00",
+      "hours": 5.1,
+      "timing": "estimated",
+      "km": 3717,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_2",
+      "tripId": "p_356b49",
+      "kind": "between",
+      "from": "p_356b49",
+      "to": "p_75d831",
+      "fromLatLng": [
+        13.7538,
+        100.51413
+      ],
+      "toLatLng": [
+        16.03095,
+        108.17908
+      ],
+      "departAt": "2024-07-13T19:40:37+07:00",
+      "arriveAt": "2024-07-14T16:10:44+07:00",
+      "hours": 20.5,
+      "timing": "photos",
+      "km": 862,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_3",
+      "tripId": "p_356b49",
+      "kind": "return",
+      "from": "p_75d831",
+      "to": "home",
+      "fromLatLng": [
+        16.03095,
+        108.17908
+      ],
+      "toLatLng": [
+        37.54703,
+        126.92967
+      ],
+      "departAt": "2024-07-16T10:20:43+07:00",
+      "arriveAt": "2024-07-16T16:37:04+09:00",
+      "hours": 4.3,
+      "timing": "estimated",
+      "km": 3018,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_4",
+      "tripId": "p_8e704b",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_8e704b",
+      "fromLatLng": [
+        37.54703,
+        126.92967
+      ],
+      "toLatLng": [
+        37.85583,
+        128.84773
+      ],
+      "departAt": "2024-08-15T13:34:36+09:00",
+      "arriveAt": "2024-08-15T15:00:43+09:00",
+      "hours": 1.4,
+      "timing": "estimated",
+      "km": 172,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_5",
+      "tripId": "p_8e704b",
+      "kind": "return",
+      "from": "p_8e704b",
+      "to": "home",
+      "fromLatLng": [
+        37.85583,
+        128.84773
+      ],
+      "toLatLng": [
+        37.55951,
+        126.92846
+      ],
+      "departAt": "2024-08-16T16:30:42+09:00",
+      "arriveAt": "2024-08-16T17:56:42+09:00",
+      "hours": 1.4,
+      "timing": "estimated",
+      "km": 172,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_6",
+      "tripId": "p_0c434a",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_0c434a",
+      "fromLatLng": [
+        37.55951,
+        126.92846
+      ],
+      "toLatLng": [
+        33.572,
+        130.43458
+      ],
+      "departAt": "2024-10-03T08:47:56+09:00",
+      "arriveAt": "2024-10-03T13:20:27+09:00",
+      "hours": 4.5,
+      "timing": "estimated",
+      "km": 545,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_7",
+      "tripId": "p_0c434a",
+      "kind": "return",
+      "from": "p_0c434a",
+      "to": "home",
+      "fromLatLng": [
+        33.572,
+        130.43458
+      ],
+      "toLatLng": [
+        37.53941,
+        126.91827
+      ],
+      "departAt": "2024-10-05T11:00:20+09:00",
+      "arriveAt": "2024-10-05T15:32:13+09:00",
+      "hours": 4.5,
+      "timing": "estimated",
+      "km": 544,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_8",
+      "tripId": "p_6dd203",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_6dd203",
+      "fromLatLng": [
+        37.53941,
+        126.91827
+      ],
+      "toLatLng": [
+        34.99859,
+        135.76563
+      ],
+      "departAt": "2024-11-22T12:36:54+09:00",
+      "arriveAt": "2024-11-22T14:10:02+09:00",
+      "hours": 1.6,
+      "timing": "estimated",
+      "km": 842,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_9",
+      "tripId": "p_6dd203",
+      "kind": "return",
+      "from": "p_6dd203",
+      "to": "home",
+      "fromLatLng": [
+        34.99859,
+        135.76563
+      ],
+      "toLatLng": [
+        37.55482,
+        126.92923
+      ],
+      "departAt": "2024-11-25T10:30:13+09:00",
+      "arriveAt": "2024-11-25T12:03:18+09:00",
+      "hours": 1.6,
+      "timing": "estimated",
+      "km": 841,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_10",
+      "tripId": "p_70c91e",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_70c91e",
+      "fromLatLng": [
+        37.55482,
+        126.92923
+      ],
+      "toLatLng": [
+        35.68062,
+        139.73358
+      ],
+      "departAt": "2025-01-23T14:13:41+09:00",
+      "arriveAt": "2025-01-23T16:10:44+09:00",
+      "hours": 2,
+      "timing": "estimated",
+      "km": 1161,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_11",
+      "tripId": "p_70c91e",
+      "kind": "return",
+      "from": "p_70c91e",
+      "to": "home",
+      "fromLatLng": [
+        35.68062,
+        139.73358
+      ],
+      "toLatLng": [
+        37.55418,
+        126.92663
+      ],
+      "departAt": "2025-01-25T18:30:29+09:00",
+      "arriveAt": "2025-01-25T20:27:32+09:00",
+      "hours": 2,
+      "timing": "estimated",
+      "km": 1161,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_12",
+      "tripId": "p_c55a2f",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_c55a2f",
+      "fromLatLng": [
+        37.55418,
+        126.92663
+      ],
+      "toLatLng": [
+        43.09956,
+        141.25089
+      ],
+      "departAt": "2025-02-06T13:48:19+09:00",
+      "arriveAt": "2025-02-06T16:00:17+09:00",
+      "hours": 2.2,
+      "timing": "estimated",
+      "km": 1359,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_13",
+      "tripId": "p_c55a2f",
+      "kind": "return",
+      "from": "p_c55a2f",
+      "to": "home",
+      "fromLatLng": [
+        43.09956,
+        141.25089
+      ],
+      "toLatLng": [
+        37.5536,
+        126.9306
+      ],
+      "departAt": "2025-02-08T18:10:18+09:00",
+      "arriveAt": "2025-02-08T20:22:13+09:00",
+      "hours": 2.2,
+      "timing": "estimated",
+      "km": 1359,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_14",
+      "tripId": "p_aeecfe",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_aeecfe",
+      "fromLatLng": [
+        37.5536,
+        126.9306
+      ],
+      "toLatLng": [
+        35.1214,
+        129.07056
+      ],
+      "departAt": "2025-02-28T12:35:05+09:00",
+      "arriveAt": "2025-02-28T15:20:49+09:00",
+      "hours": 2.8,
+      "timing": "estimated",
+      "km": 331,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_15",
+      "tripId": "p_aeecfe",
+      "kind": "between",
+      "from": "p_aeecfe",
+      "to": "p_c98ca9",
+      "fromLatLng": [
+        35.1214,
+        129.07056
+      ],
+      "toLatLng": [
+        35.8136,
+        129.28165
+      ],
+      "departAt": "2025-03-01T16:00:25+09:00",
+      "arriveAt": "2025-03-01T19:30:33+09:00",
+      "hours": 3.5,
+      "timing": "photos",
+      "km": 79,
+      "mode": "car",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_16",
+      "tripId": "p_aeecfe",
+      "kind": "return",
+      "from": "p_c98ca9",
+      "to": "home",
+      "fromLatLng": [
+        35.8136,
+        129.28165
+      ],
+      "toLatLng": [
+        37.55117,
+        126.9262
+      ],
+      "departAt": "2025-03-02T16:00:12+09:00",
+      "arriveAt": "2025-03-02T18:22:53+09:00",
+      "hours": 2.4,
+      "timing": "estimated",
+      "km": 285,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_17",
+      "tripId": "p_3c1060",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_3c1060",
+      "fromLatLng": [
+        37.55117,
+        126.9262
+      ],
+      "toLatLng": [
+        49.30877,
+        -123.11272
+      ],
+      "departAt": "2025-06-28T23:48:42+09:00",
+      "arriveAt": "2025-06-28T18:30:51-07:00",
+      "hours": 10.7,
+      "timing": "estimated",
+      "km": 8162,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": true
+    },
+    {
+      "id": "leg_18",
+      "tripId": "p_3c1060",
+      "kind": "between",
+      "from": "p_3c1060",
+      "to": "p_606b31",
+      "fromLatLng": [
+        49.30877,
+        -123.11272
+      ],
+      "toLatLng": [
+        51.3057,
+        -115.99327
+      ],
+      "departAt": "2025-08-23T19:50:07-07:00",
+      "arriveAt": "2025-08-25T17:00:00-06:00",
+      "hours": 44.2,
+      "timing": "photos",
+      "km": 552,
+      "mode": "car",
+      "modeSource": "user",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_19",
+      "tripId": "p_3c1060",
+      "kind": "return",
+      "from": "p_606b31",
+      "to": "home",
+      "fromLatLng": [
+        51.3057,
+        -115.99327
+      ],
+      "toLatLng": [
+        37.55372,
+        126.92069
+      ],
+      "departAt": "2025-08-26T11:30:08-06:00",
+      "arriveAt": "2025-08-27T13:29:56+09:00",
+      "hours": 11,
+      "timing": "estimated",
+      "km": 8397,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": true
+    },
+    {
+      "id": "leg_20",
+      "tripId": "p_8a6ac3",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_8a6ac3",
+      "fromLatLng": [
+        37.55372,
+        126.92069
+      ],
+      "toLatLng": [
+        34.67363,
+        135.51595
+      ],
+      "departAt": "2025-09-19T17:57:23+09:00",
+      "arriveAt": "2025-09-19T19:30:03+09:00",
+      "hours": 1.5,
+      "timing": "estimated",
+      "km": 835,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_21",
+      "tripId": "p_8a6ac3",
+      "kind": "return",
+      "from": "p_8a6ac3",
+      "to": "home",
+      "fromLatLng": [
+        34.67363,
+        135.51595
+      ],
+      "toLatLng": [
+        37.54731,
+        126.91395
+      ],
+      "departAt": "2025-09-21T15:00:06+09:00",
+      "arriveAt": "2025-09-21T16:32:46+09:00",
+      "hours": 1.5,
+      "timing": "estimated",
+      "km": 836,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_22",
+      "tripId": "p_f309fe",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_f309fe",
+      "fromLatLng": [
+        37.54731,
+        126.91395
+      ],
+      "toLatLng": [
+        35.81507,
+        127.14967
+      ],
+      "departAt": "2025-10-04T13:23:54+09:00",
+      "arriveAt": "2025-10-04T15:00:47+09:00",
+      "hours": 1.6,
+      "timing": "estimated",
+      "km": 194,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_23",
+      "tripId": "p_f309fe",
+      "kind": "return",
+      "from": "p_f309fe",
+      "to": "home",
+      "fromLatLng": [
+        35.81507,
+        127.14967
+      ],
+      "toLatLng": [
+        37.55644,
+        126.91608
+      ],
+      "departAt": "2025-10-05T10:00:01+09:00",
+      "arriveAt": "2025-10-05T11:37:23+09:00",
+      "hours": 1.6,
+      "timing": "estimated",
+      "km": 195,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_24",
+      "tripId": "p_c60246",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_c60246",
+      "fromLatLng": [
+        37.55644,
+        126.91608
+      ],
+      "toLatLng": [
+        48.85673,
+        2.34657
+      ],
+      "departAt": "2025-12-26T11:17:45+09:00",
+      "arriveAt": "2025-12-26T15:00:03+01:00",
+      "hours": 11.7,
+      "timing": "estimated",
+      "km": 8964,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_25",
+      "tripId": "p_c60246",
+      "kind": "between",
+      "from": "p_c60246",
+      "to": "p_677fcc",
+      "fromLatLng": [
+        48.85673,
+        2.34657
+      ],
+      "toLatLng": [
+        51.51155,
+        -0.1136
+      ],
+      "departAt": "2025-12-30T11:00:51+01:00",
+      "arriveAt": "2026-01-01T13:00:46+00:00",
+      "hours": 51,
+      "timing": "photos",
+      "km": 343,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_26",
+      "tripId": "p_c60246",
+      "kind": "between",
+      "from": "p_677fcc",
+      "to": "p_405d61",
+      "fromLatLng": [
+        51.51155,
+        -0.1136
+      ],
+      "toLatLng": [
+        41.39927,
+        2.16515
+      ],
+      "departAt": "2026-01-03T15:20:16+00:00",
+      "arriveAt": "2026-01-05T14:00:24+01:00",
+      "hours": 45.7,
+      "timing": "photos",
+      "km": 1138,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_27",
+      "tripId": "p_c60246",
+      "kind": "return",
+      "from": "p_405d61",
+      "to": "home",
+      "fromLatLng": [
+        41.39927,
+        2.16515
+      ],
+      "toLatLng": [
+        37.55835,
+        126.92938
+      ],
+      "departAt": "2026-01-08T11:00:26+01:00",
+      "arriveAt": "2026-01-09T07:30:22+09:00",
+      "hours": 12.5,
+      "timing": "estimated",
+      "km": 9599,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_28",
+      "tripId": "p_c1e96f",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_c1e96f",
+      "fromLatLng": [
+        37.55835,
+        126.92938
+      ],
+      "toLatLng": [
+        34.83558,
+        127.56808
+      ],
+      "departAt": "2026-05-23T11:26:15+09:00",
+      "arriveAt": "2026-05-23T14:00:19+09:00",
+      "hours": 2.6,
+      "timing": "estimated",
+      "km": 308,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_29",
+      "tripId": "p_c1e96f",
+      "kind": "return",
+      "from": "p_c1e96f",
+      "to": "home",
+      "fromLatLng": [
+        34.83558,
+        127.56808
+      ],
+      "toLatLng": [
+        37.5553,
+        126.90923
+      ],
+      "departAt": "2026-05-25T13:30:41+09:00",
+      "arriveAt": "2026-05-25T16:04:45+09:00",
+      "hours": 2.6,
+      "timing": "estimated",
+      "km": 308,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_30",
+      "tripId": "p_1eb564",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_1eb564",
+      "fromLatLng": [
+        37.5553,
+        126.90923
+      ],
+      "toLatLng": [
+        38.17975,
+        128.51025
+      ],
+      "departAt": "2026-07-18T14:41:51+09:00",
+      "arriveAt": "2026-07-18T16:00:14+09:00",
+      "hours": 1.3,
+      "timing": "estimated",
+      "km": 157,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_31",
+      "tripId": "p_1eb564",
+      "kind": "return",
+      "from": "p_1eb564",
+      "to": "home",
+      "fromLatLng": [
+        38.17975,
+        128.51025
+      ],
+      "toLatLng": [
+        37.56202,
+        126.93406
+      ],
+      "departAt": "2026-07-19T12:40:43+09:00",
+      "arriveAt": "2026-07-19T13:57:56+09:00",
+      "hours": 1.3,
+      "timing": "estimated",
+      "km": 154,
+      "mode": "train",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_32",
+      "tripId": "p_412fd8",
+      "kind": "outbound",
+      "from": "home",
+      "to": "p_412fd8",
+      "fromLatLng": [
+        37.56202,
+        126.93406
+      ],
+      "toLatLng": [
+        41.01328,
+        28.97518
+      ],
+      "departAt": "2026-08-13T12:34:24+09:00",
+      "arriveAt": "2026-08-13T17:00:44+03:00",
+      "hours": 10.4,
+      "timing": "estimated",
+      "km": 7951,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    },
+    {
+      "id": "leg_33",
+      "tripId": "p_412fd8",
+      "kind": "return",
+      "from": "p_412fd8",
+      "to": "home",
+      "fromLatLng": [
+        41.01328,
+        28.97518
+      ],
+      "toLatLng": [
+        37.55598,
+        126.93638
+      ],
+      "departAt": "2026-08-16T19:00:29+03:00",
+      "arriveAt": "2026-08-17T11:26:50+09:00",
+      "hours": 10.4,
+      "timing": "estimated",
+      "km": 7951,
+      "mode": "flight",
+      "modeSource": "auto",
+      "crossesAntimeridian": false
+    }
+  ],
+  "trips": [
+    {
+      "id": "p_356b49",
+      "name": "방콕 · 다낭",
+      "nameSource": "auto",
+      "from": "2024-07-11T20:10:08+07:00",
+      "to": "2024-07-16T10:20:43+07:00",
+      "days": 6,
+      "stopIds": [
+        "p_356b49",
+        "p_75d831"
+      ],
+      "legIds": [
+        "leg_1",
+        "leg_2",
+        "leg_3"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_8e704b",
+      "name": "강릉",
+      "nameSource": "auto",
+      "from": "2024-08-15T15:00:43+09:00",
+      "to": "2024-08-16T16:30:42+09:00",
+      "days": 2,
+      "stopIds": [
+        "p_8e704b"
+      ],
+      "legIds": [
+        "leg_4",
+        "leg_5"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_0c434a",
+      "name": "후쿠오카",
+      "nameSource": "auto",
+      "from": "2024-10-03T13:20:27+09:00",
+      "to": "2024-10-05T11:00:20+09:00",
+      "days": 3,
+      "stopIds": [
+        "p_0c434a"
+      ],
+      "legIds": [
+        "leg_6",
+        "leg_7"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_6dd203",
+      "name": "교토",
+      "nameSource": "auto",
+      "from": "2024-11-22T14:10:02+09:00",
+      "to": "2024-11-25T10:30:13+09:00",
+      "days": 4,
+      "stopIds": [
+        "p_6dd203"
+      ],
+      "legIds": [
+        "leg_8",
+        "leg_9"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_70c91e",
+      "name": "도쿄",
+      "nameSource": "auto",
+      "from": "2025-01-23T16:10:44+09:00",
+      "to": "2025-01-25T18:30:29+09:00",
+      "days": 3,
+      "stopIds": [
+        "p_70c91e"
+      ],
+      "legIds": [
+        "leg_10",
+        "leg_11"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_c55a2f",
+      "name": "삿포로",
+      "nameSource": "auto",
+      "from": "2025-02-06T16:00:17+09:00",
+      "to": "2025-02-08T18:10:18+09:00",
+      "days": 3,
+      "stopIds": [
+        "p_c55a2f"
+      ],
+      "legIds": [
+        "leg_12",
+        "leg_13"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_aeecfe",
+      "name": "부산 · 경주",
+      "nameSource": "auto",
+      "from": "2025-02-28T15:20:49+09:00",
+      "to": "2025-03-02T16:00:12+09:00",
+      "days": 3,
+      "stopIds": [
+        "p_aeecfe",
+        "p_c98ca9"
+      ],
+      "legIds": [
+        "leg_14",
+        "leg_15",
+        "leg_16"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_3c1060",
+      "name": "밴쿠버 · 밴프",
+      "nameSource": "auto",
+      "from": "2025-06-28T18:30:51-07:00",
+      "to": "2025-08-26T11:30:08-06:00",
+      "days": 60,
+      "stopIds": [
+        "p_3c1060",
+        "p_606b31"
+      ],
+      "legIds": [
+        "leg_17",
+        "leg_18",
+        "leg_19"
+      ],
+      "chapter": true
+    },
+    {
+      "id": "p_8a6ac3",
+      "name": "오사카",
+      "nameSource": "auto",
+      "from": "2025-09-19T19:30:03+09:00",
+      "to": "2025-09-21T15:00:06+09:00",
+      "days": 3,
+      "stopIds": [
+        "p_8a6ac3"
+      ],
+      "legIds": [
+        "leg_20",
+        "leg_21"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_f309fe",
+      "name": "전주",
+      "nameSource": "auto",
+      "from": "2025-10-04T15:00:47+09:00",
+      "to": "2025-10-05T10:00:01+09:00",
+      "days": 2,
+      "stopIds": [
+        "p_f309fe"
+      ],
+      "legIds": [
+        "leg_22",
+        "leg_23"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_c60246",
+      "name": "졸업 여행",
+      "nameSource": "user",
+      "from": "2025-12-26T15:00:03+01:00",
+      "to": "2026-01-08T11:00:26+01:00",
+      "days": 14,
+      "stopIds": [
+        "p_c60246",
+        "p_677fcc",
+        "p_405d61"
+      ],
+      "legIds": [
+        "leg_24",
+        "leg_25",
+        "leg_26",
+        "leg_27"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_c1e96f",
+      "name": "여수 · 순천",
+      "nameSource": "user",
+      "from": "2026-05-23T14:00:19+09:00",
+      "to": "2026-05-25T13:30:41+09:00",
+      "days": 3,
+      "stopIds": [
+        "p_c1e96f"
+      ],
+      "legIds": [
+        "leg_28",
+        "leg_29"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_1eb564",
+      "name": "속초",
+      "nameSource": "auto",
+      "from": "2026-07-18T16:00:14+09:00",
+      "to": "2026-07-19T12:40:43+09:00",
+      "days": 2,
+      "stopIds": [
+        "p_1eb564"
+      ],
+      "legIds": [
+        "leg_30",
+        "leg_31"
+      ],
+      "chapter": false
+    },
+    {
+      "id": "p_412fd8",
+      "name": "이스탄불",
+      "nameSource": "auto",
+      "from": "2026-08-13T17:00:44+03:00",
+      "to": "2026-08-16T19:00:29+03:00",
+      "days": 4,
+      "stopIds": [
+        "p_412fd8"
+      ],
+      "legIds": [
+        "leg_32",
+        "leg_33"
+      ],
+      "chapter": false
+    }
+  ],
+  "unlocated": [
+    "p_b99a33"
+  ],
+  "excluded": [],
+  "periods": {
+    "anchor": "2026-08-16",
+    "1y": {
+      "from": "2025-08-16",
+      "to": "2026-08-16"
+    },
+    "2y": {
+      "from": "2024-08-16",
+      "to": "2026-08-16"
+    },
+    "all": {
+      "from": "2024-07-11",
+      "to": "2026-08-16"
+    }
+  }
+}

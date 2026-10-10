@@ -1,0 +1,292 @@
+{
+  "generatedBy": "mock/demo-photos.mjs",
+  "about": "각 파일을 readPhotos로 읽었을 때 나와야 하는 값. takenAt은 현지 벽시계 시각(시간대 없음). suspiciousDate·duplicateOf·rawLat은 화면·업로드 단계의 판단 힌트",
+  "cases": [
+    {
+      "file": "01_full-exif.jpg",
+      "why": "기준: 모든 EXIF가 있는 폰 원본",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "02_no-exif.jpg",
+      "why": "인터넷·메신저에서 받은 사진. EXIF 통째로 없음",
+      "expect": {
+        "readable": true,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": null,
+        "lng": null,
+        "camera": null,
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "03_no-gps.jpg",
+      "why": "위치 서비스를 꺼 둔 사진",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": null,
+        "lng": null,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "04_no-offset.jpg",
+      "why": "시간대 태그가 없는 옛 기기·편집 앱",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": null,
+        "timeUncertain": true,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "05_no-date-gps-only.jpg",
+      "why": "날짜는 없고 위치만 있음",
+      "expect": {
+        "readable": true,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "06_only-modify-date.jpg",
+      "why": "촬영일(DateTimeOriginal)은 없고 파일 수정일(DateTime)만 있음. 수정일은 쓰지 않는다(기능-명세 §0)",
+      "expect": {
+        "readable": true,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "07_recompressed-half.jpg",
+      "why": "메신저가 크기를 반으로 줄이고 다시 압축. EXIF 사라짐",
+      "expect": {
+        "readable": true,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": null,
+        "lng": null,
+        "camera": null,
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "08_cropped-keeps-exif.jpg",
+      "why": "갤러리에서 잘라낸 사진. 크기는 바뀌어도 EXIF는 남는다",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "09_screenshot.png",
+      "why": "화면 캡처(PNG). EXIF 없음",
+      "expect": {
+        "readable": true,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": null,
+        "lng": null,
+        "camera": null,
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "10_truncated-body.jpg",
+      "why": "받다가 끊긴 파일. EXIF는 앞부분이라 읽히지만 이미지는 깨짐 → 썸네일 실패로 처리",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": false
+      }
+    },
+    {
+      "file": "11_truncated-header.jpg",
+      "why": "앞 300바이트만 남은 파일. EXIF 블록까지 잘려 아무것도 못 읽음. exifr는 던지지 않고 { errors: [...] }만 돌려준다",
+      "expect": {
+        "readable": false,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": null,
+        "lng": null,
+        "camera": null,
+        "imageDecodable": false
+      }
+    },
+    {
+      "file": "12_orientation-6.jpg",
+      "why": "세로로 찍어 회전 태그(6)가 붙은 사진. 썸네일을 돌려 보여 줘야 한다. exifr는 기본으로 \"Rotate 90 CW\" 글자로 주고, translateValues: false면 6을 준다",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true,
+        "orientation": 6
+      }
+    },
+    {
+      "file": "13_gps-null-island.jpg",
+      "why": "GPS가 0,0(바다 한가운데). 고장 난 값이라 위치 없음으로 본다",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": null,
+        "lng": null,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true,
+        "rawLat": 0,
+        "rawLng": 0
+      }
+    },
+    {
+      "file": "14_clock-reset-2000.jpg",
+      "why": "배터리가 나가 카메라 시계가 초기화된 사진. 날짜를 믿을 수 없다(의심 표시 권장)",
+      "expect": {
+        "readable": true,
+        "takenAt": "2000-01-01T00:00:00",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true,
+        "suspiciousDate": true
+      }
+    },
+    {
+      "file": "15_future-date.jpg",
+      "why": "시계가 미래로 잘못 맞춰진 사진",
+      "expect": {
+        "readable": true,
+        "takenAt": "2031-05-01T12:00:00",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true,
+        "suspiciousDate": true
+      }
+    },
+    {
+      "file": "dup/IMG_0098.JPG",
+      "why": "seojin에 이미 있는 사진과 이름·촬영 시각이 같음 → 같은 계정에 올리면 건너뛴다",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true,
+        "duplicateOf": "IMG_0098.JPG"
+      }
+    },
+    {
+      "file": "dup/IMG_0098 (1).JPG",
+      "why": "같은 사진을 이름만 바꿔 다시 받음. (이름, 촬영 시각) 규칙으로는 못 걸러낸다(내용 비교는 v2)",
+      "expect": {
+        "readable": true,
+        "takenAt": "2024-11-24T08:30:49",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 34.9949,
+        "lng": 135.785,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "dup/IMG_0098_other-phone.JPG",
+      "why": "다른 폰에서 온 같은 번호대 사진. 촬영 시각이 달라 다른 사진",
+      "expect": {
+        "readable": true,
+        "takenAt": "2025-05-05T10:00:00",
+        "offset": "+09:00",
+        "timeUncertain": false,
+        "lat": 37.5665,
+        "lng": 126.978,
+        "camera": "Apple iPhone 13",
+        "imageDecodable": true
+      }
+    },
+    {
+      "file": "16_not-an-image.jpg",
+      "why": "확장자만 jpg인 텍스트 파일",
+      "expect": {
+        "readable": false,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": null,
+        "lng": null,
+        "camera": null,
+        "imageDecodable": false
+      }
+    },
+    {
+      "file": "KakaoTalk_20241125_103012.jpg",
+      "why": "카카오톡으로 받은 사진. EXIF 없음. 파일 이름의 날짜는 받은 날이라 쓰지 않는다",
+      "expect": {
+        "readable": true,
+        "takenAt": null,
+        "offset": null,
+        "timeUncertain": true,
+        "lat": null,
+        "lng": null,
+        "camera": null,
+        "imageDecodable": true
+      }
+    }
+  ]
+}

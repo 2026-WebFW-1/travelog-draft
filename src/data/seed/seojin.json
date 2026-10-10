@@ -1,0 +1,6888 @@
+{
+  "user": {
+    "id": "u_seojin",
+    "email": "seojin@demo.local",
+    "name": "윤서진",
+    "picture": null,
+    "provider": "demo",
+    "createdAt": "2026-10-01T21:00:00+09:00"
+  },
+  "photos": [
+    {
+      "id": "p_c2a066",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0001.JPG",
+      "takenAt": "2024-03-04T18:38:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51814,
+      "lng": 126.88029,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_eb2d91",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0002.JPG",
+      "takenAt": "2024-03-07T17:56:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53973,
+      "lng": 126.94563,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_130df1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0003.JPG",
+      "takenAt": "2024-03-11T17:06:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58892,
+      "lng": 126.8682,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e8a7d1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0004.JPG",
+      "takenAt": "2024-03-11T20:09:54",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56573,
+      "lng": 126.94024,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7433e8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0005.JPG",
+      "takenAt": "2024-03-16T17:54:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55649,
+      "lng": 126.8911,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_19b0d8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0006.JPG",
+      "takenAt": "2024-03-18T21:31:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52274,
+      "lng": 126.97525,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f52655",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0007.JPG",
+      "takenAt": "2024-03-22T16:35:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51666,
+      "lng": 126.88549,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3e2488",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0008.JPG",
+      "takenAt": "2024-03-22T19:19:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56665,
+      "lng": 126.87321,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3fe621",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0009.JPG",
+      "takenAt": "2024-03-29T20:41:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52234,
+      "lng": 126.86863,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_398102",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0010.JPG",
+      "takenAt": "2024-04-01T20:04:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58212,
+      "lng": 126.88177,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bd0b76",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0011.JPG",
+      "takenAt": "2024-04-06T19:02:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59712,
+      "lng": 126.86973,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6a6a25",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0012.JPG",
+      "takenAt": "2024-04-11T11:03:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56026,
+      "lng": 126.94544,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_eaad7b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0013.JPG",
+      "takenAt": "2024-04-13T14:13:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58239,
+      "lng": 126.97247,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_634989",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0014.JPG",
+      "takenAt": "2024-04-15T15:48:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51915,
+      "lng": 126.92991,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f721eb",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0015.JPG",
+      "takenAt": "2024-04-22T14:43:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56178,
+      "lng": 126.89156,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_51bd32",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0016.JPG",
+      "takenAt": "2024-04-22T15:42:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58492,
+      "lng": 126.89816,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_584a79",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0017.JPG",
+      "takenAt": "2024-04-29T17:39:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55286,
+      "lng": 126.97935,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_553e75",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0018.JPG",
+      "takenAt": "2024-04-29T21:27:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53393,
+      "lng": 126.95019,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b8b0ef",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0019.JPG",
+      "takenAt": "2024-05-08T13:41:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56808,
+      "lng": 126.93371,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_550551",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0020.JPG",
+      "takenAt": "2024-05-09T18:29:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53451,
+      "lng": 126.95819,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b0ca52",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0021.JPG",
+      "takenAt": "2024-05-12T19:56:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54621,
+      "lng": 126.92874,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_95685c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0022.JPG",
+      "takenAt": "2024-05-13T15:24:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57966,
+      "lng": 126.94273,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_29a751",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0023.JPG",
+      "takenAt": "2024-05-18T21:16:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56636,
+      "lng": 126.92475,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7c0983",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0024.JPG",
+      "takenAt": "2024-05-19T19:18:53",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59529,
+      "lng": 126.97199,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_923a5e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0025.JPG",
+      "takenAt": "2024-05-29T12:06:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56066,
+      "lng": 126.93065,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5ad4e6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0026.JPG",
+      "takenAt": "2024-05-29T20:02:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52553,
+      "lng": 126.96714,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_419602",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0027.JPG",
+      "takenAt": "2024-06-05T13:08:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54906,
+      "lng": 126.89841,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_82708d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0028.JPG",
+      "takenAt": "2024-06-05T17:25:39",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56579,
+      "lng": 126.9161,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_194935",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0029.JPG",
+      "takenAt": "2024-06-08T19:51:44",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52983,
+      "lng": 126.92826,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_71e560",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0030.JPG",
+      "takenAt": "2024-06-08T21:21:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55872,
+      "lng": 126.938,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d6a3ce",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0031.JPG",
+      "takenAt": "2024-06-16T15:58:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58043,
+      "lng": 126.94489,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a96834",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0032.JPG",
+      "takenAt": "2024-06-20T17:21:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58881,
+      "lng": 126.87311,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fe1ea1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0033.JPG",
+      "takenAt": "2024-06-21T16:38:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52714,
+      "lng": 126.87937,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_376aa0",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0034.JPG",
+      "takenAt": "2024-06-21T17:02:37",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53794,
+      "lng": 126.92395,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_217454",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0035.JPG",
+      "takenAt": "2024-06-29T16:06:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57962,
+      "lng": 126.90599,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_361b27",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0036.JPG",
+      "takenAt": "2024-07-04T14:27:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57795,
+      "lng": 126.90129,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7739bf",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0037.JPG",
+      "takenAt": "2024-07-05T18:48:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58343,
+      "lng": 126.91606,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_160b76",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0038.JPG",
+      "takenAt": "2024-07-07T17:55:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57288,
+      "lng": 126.95688,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_356b49",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0039.JPG",
+      "takenAt": "2024-07-11T20:10:08",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 13.748,
+      "lng": 100.489,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/bangkok-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e0ee2b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0040.JPG",
+      "takenAt": "2024-07-12T10:30:30",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 13.7437,
+      "lng": 100.4889,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/bangkok-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b86559",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0041.JPG",
+      "takenAt": "2024-07-13T11:00:13",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 13.7999,
+      "lng": 100.5503,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/bangkok-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e5e9cf",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0042.JPG",
+      "takenAt": "2024-07-13T19:40:37",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 13.7236,
+      "lng": 100.5283,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/bangkok-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_75d831",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0043.JPG",
+      "takenAt": "2024-07-14T16:10:44",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 16.064,
+      "lng": 108.229,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/danang-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e96844",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0044.JPG",
+      "takenAt": "2024-07-15T09:30:15",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 15.995,
+      "lng": 107.9965,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/danang-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6878b5",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0045.JPG",
+      "takenAt": "2024-07-15T17:50:42",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 16.0036,
+      "lng": 108.2636,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/danang-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_aa343d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0046.JPG",
+      "takenAt": "2024-07-16T10:20:43",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 16.0612,
+      "lng": 108.2272,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/danang-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_83eebd",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0047.JPG",
+      "takenAt": "2024-07-17T22:42:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_932c2c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0048.JPG",
+      "takenAt": "2024-07-22T15:13:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5671,
+      "lng": 126.96431,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c8ae6b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0049.JPG",
+      "takenAt": "2024-07-23T17:18:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59952,
+      "lng": 126.95345,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_982a10",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0050.JPG",
+      "takenAt": "2024-07-27T20:14:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52022,
+      "lng": 126.9763,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b15f9e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0051.JPG",
+      "takenAt": "2024-07-31T14:50:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53271,
+      "lng": 126.90424,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_465c52",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0052.JPG",
+      "takenAt": "2024-08-02T11:25:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54542,
+      "lng": 126.91168,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a134bf",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0053.JPG",
+      "takenAt": "2024-08-02T14:13:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53858,
+      "lng": 126.89402,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f990d8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0054.JPG",
+      "takenAt": "2024-08-11T13:06:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51635,
+      "lng": 126.90979,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8e704b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0055.JPG",
+      "takenAt": "2024-08-15T15:00:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.779,
+      "lng": 128.8786,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/gangneung-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_621328",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0056.JPG",
+      "takenAt": "2024-08-16T08:40:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.8925,
+      "lng": 128.8316,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/gangneung-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_328c3e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0057.JPG",
+      "takenAt": "2024-08-16T16:30:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.896,
+      "lng": 128.833,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/gangneung-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5a1adf",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0058.JPG",
+      "takenAt": "2024-08-17T22:19:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6b3282",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0059.JPG",
+      "takenAt": "2024-08-19T14:48:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57028,
+      "lng": 126.88058,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8963fb",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0060.JPG",
+      "takenAt": "2024-08-22T17:44:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59614,
+      "lng": 126.92306,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0555a6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0061.JPG",
+      "takenAt": "2024-08-23T13:16:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59862,
+      "lng": 126.87957,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3fe168",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0062.JPG",
+      "takenAt": "2024-08-23T16:58:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59981,
+      "lng": 126.91408,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_003b68",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0063.JPG",
+      "takenAt": "2024-08-31T16:59:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57138,
+      "lng": 126.90838,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ba692b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0064.JPG",
+      "takenAt": "2024-09-04T20:59:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55619,
+      "lng": 126.97214,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_afcaef",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0065.JPG",
+      "takenAt": "2024-09-07T17:02:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55142,
+      "lng": 126.9546,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_56ea4a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0066.JPG",
+      "takenAt": "2024-09-10T18:46:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52501,
+      "lng": 126.92798,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5273e0",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0067.JPG",
+      "takenAt": "2024-09-18T14:43:36",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52419,
+      "lng": 126.87576,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_751fed",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0068.JPG",
+      "takenAt": "2024-09-18T15:47:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51872,
+      "lng": 126.96875,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e4f045",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0069.JPG",
+      "takenAt": "2024-09-20T14:02:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56422,
+      "lng": 126.88855,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8b9dea",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0070.JPG",
+      "takenAt": "2024-09-20T20:36:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56115,
+      "lng": 126.97454,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c57943",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0071.JPG",
+      "takenAt": "2024-09-28T13:34:07",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5641,
+      "lng": 126.97823,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b0a6e6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0072.JPG",
+      "takenAt": "2024-09-30T21:46:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53509,
+      "lng": 126.95714,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0c434a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0073.JPG",
+      "takenAt": "2024-10-03T13:20:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 33.5897,
+      "lng": 130.4207,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a72e51",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0074.JPG",
+      "takenAt": "2024-10-04T10:40:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 33.5862,
+      "lng": 130.3763,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8831d8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0075.JPG",
+      "takenAt": "2024-10-04T20:10:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 33.5925,
+      "lng": 130.4065,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 640
+      },
+      "fileKey": "public:/photos/fukuoka-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_654bd8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0076.JPG",
+      "takenAt": "2024-10-05T11:00:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 33.5196,
+      "lng": 130.5348,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9bea59",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0077.JPG",
+      "takenAt": "2024-10-06T22:29:04",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bc0093",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0078.JPG",
+      "takenAt": "2024-10-09T21:45:48",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52201,
+      "lng": 126.96553,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_173e5e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0079.JPG",
+      "takenAt": "2024-10-13T12:18:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5139,
+      "lng": 126.95405,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_31ec72",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0080.JPG",
+      "takenAt": "2024-10-14T16:15:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52249,
+      "lng": 126.87419,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d1a066",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0081.JPG",
+      "takenAt": "2024-10-20T14:47:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56638,
+      "lng": 126.90162,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ccde0f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0082.JPG",
+      "takenAt": "2024-10-22T11:25:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51802,
+      "lng": 126.96533,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_af52d6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0083.JPG",
+      "takenAt": "2024-10-25T11:40:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57275,
+      "lng": 126.94532,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4159c6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0084.JPG",
+      "takenAt": "2024-10-25T21:14:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54902,
+      "lng": 126.9038,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1639c7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0085.JPG",
+      "takenAt": "2024-11-01T18:00:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51668,
+      "lng": 126.89905,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_86b752",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0086.JPG",
+      "takenAt": "2024-11-02T12:51:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51403,
+      "lng": 126.90382,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4e8359",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0087.JPG",
+      "takenAt": "2024-11-10T11:20:44",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5509,
+      "lng": 126.92182,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_39c50c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0088.JPG",
+      "takenAt": "2024-11-11T13:32:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5801,
+      "lng": 126.87541,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7f5238",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0089.JPG",
+      "takenAt": "2024-11-17T14:14:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5297,
+      "lng": 126.90391,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6dd203",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0090.JPG",
+      "takenAt": "2024-11-22T14:10:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0142,
+      "lng": 135.748,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/kyoto-11.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f1121c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0091.JPG",
+      "takenAt": "2024-11-22T17:30:46",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.005,
+      "lng": 135.7649,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/kyoto-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_10c42a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0092.JPG",
+      "takenAt": "2024-11-22T17:45:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0051,
+      "lng": 135.7655,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/kyoto-13.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_832f25",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0093.JPG",
+      "takenAt": "2024-11-23T07:50:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9671,
+      "lng": 135.7727,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/kyoto-6.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b5c9ea",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0094.JPG",
+      "takenAt": "2024-11-23T11:20:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9767,
+      "lng": 135.774,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/kyoto-15.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7c5dae",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0095.JPG",
+      "takenAt": "2024-11-23T13:00:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.003,
+      "lng": 135.773,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/kyoto-9.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9dd88e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0096.JPG",
+      "takenAt": "2024-11-23T15:40:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.996,
+      "lng": 135.781,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/kyoto-10.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_437411",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0097.JPG",
+      "takenAt": "2024-11-23T16:10:11",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9985,
+      "lng": 135.7792,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/kyoto-14.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d3ae09",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0098.JPG",
+      "takenAt": "2024-11-24T08:30:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9949,
+      "lng": 135.785,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/kyoto-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_34d794",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0099.JPG",
+      "takenAt": "2024-11-24T08:45:44",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9952,
+      "lng": 135.7846,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/kyoto-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_21ec44",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0100.JPG",
+      "takenAt": "2024-11-24T09:20:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9946,
+      "lng": 135.7856,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/kyoto-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b9a6c0",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0101.JPG",
+      "takenAt": "2024-11-24T14:00:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.017,
+      "lng": 135.6713,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/kyoto-8.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_517e5b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0102.JPG",
+      "takenAt": "2024-11-25T09:30:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.008,
+      "lng": 135.768,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/kyoto-12.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_81af2d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0103.JPG",
+      "takenAt": "2024-11-25T10:30:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0049,
+      "lng": 135.766,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/kyoto-5.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bf74fc",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0104.JPG",
+      "takenAt": "2024-11-26T22:51:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f45ede",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0105.JPG",
+      "takenAt": "2024-11-28T14:09:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53305,
+      "lng": 126.9362,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1f5457",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0106.JPG",
+      "takenAt": "2024-11-30T20:39:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5248,
+      "lng": 126.89107,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b49b89",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0107.JPG",
+      "takenAt": "2024-12-05T16:36:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57307,
+      "lng": 126.87116,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_af63e6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0108.JPG",
+      "takenAt": "2024-12-09T18:08:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53659,
+      "lng": 126.98016,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_195e20",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0109.JPG",
+      "takenAt": "2024-12-11T20:52:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59054,
+      "lng": 126.88524,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_371f54",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0110.JPG",
+      "takenAt": "2024-12-17T16:23:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51142,
+      "lng": 126.92609,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_aca665",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0111.JPG",
+      "takenAt": "2024-12-19T16:19:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56679,
+      "lng": 126.93872,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_76d50d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0112.JPG",
+      "takenAt": "2024-12-20T17:46:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56714,
+      "lng": 126.98,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_72406a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0113.JPG",
+      "takenAt": "2024-12-23T16:32:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53633,
+      "lng": 126.9554,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_757361",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0114.JPG",
+      "takenAt": "2024-12-27T21:50:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.60075,
+      "lng": 126.94587,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_929e03",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0115.JPG",
+      "takenAt": "2024-12-30T13:22:34",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58828,
+      "lng": 126.93581,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_57278a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0116.JPG",
+      "takenAt": "2025-01-08T12:14:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5922,
+      "lng": 126.87773,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_58a3de",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0117.JPG",
+      "takenAt": "2025-01-09T11:22:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53216,
+      "lng": 126.92718,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_61f250",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0118.JPG",
+      "takenAt": "2025-01-11T15:11:36",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56357,
+      "lng": 126.90093,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f24614",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0119.JPG",
+      "takenAt": "2025-01-11T20:11:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52314,
+      "lng": 126.90313,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9d19f3",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0120.JPG",
+      "takenAt": "2025-01-17T17:58:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53866,
+      "lng": 126.97884,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d2e5c1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0121.JPG",
+      "takenAt": "2025-01-21T14:53:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55198,
+      "lng": 126.96901,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_70c91e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0122.JPG",
+      "takenAt": "2025-01-23T16:10:44",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6896,
+      "lng": 139.6917,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/tokyo-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9bd2be",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0123.JPG",
+      "takenAt": "2025-01-23T19:40:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6595,
+      "lng": 139.7005,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/tokyo-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_eca011",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0124.JPG",
+      "takenAt": "2025-01-24T10:20:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.7148,
+      "lng": 139.7967,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/tokyo-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_015886",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0125.JPG",
+      "takenAt": "2025-01-25T18:30:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6586,
+      "lng": 139.7454,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/tokyo-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7eba47",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0126.JPG",
+      "takenAt": "2025-01-26T22:34:25",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2c1682",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0127.JPG",
+      "takenAt": "2025-02-03T11:09:37",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52658,
+      "lng": 126.96758,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5eed04",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0128.JPG",
+      "takenAt": "2025-02-04T19:51:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57967,
+      "lng": 126.88872,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c55a2f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0129.JPG",
+      "takenAt": "2025-02-06T16:00:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.0625,
+      "lng": 141.3536,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/sapporo-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3e56f2",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0130.JPG",
+      "takenAt": "2025-02-06T19:30:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.056,
+      "lng": 141.353,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/sapporo-7.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5795c1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0131.JPG",
+      "takenAt": "2025-02-07T10:20:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.061,
+      "lng": 141.3565,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/sapporo-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fc772c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0132.JPG",
+      "takenAt": "2025-02-07T10:30:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.0611,
+      "lng": 141.3566,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/sapporo-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b4e817",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0133.JPG",
+      "takenAt": "2025-02-07T19:00:58",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.0595,
+      "lng": 141.348,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 1000
+      },
+      "fileKey": "public:/photos/sapporo-6.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_197bbc",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0134.JPG",
+      "takenAt": "2025-02-08T13:30:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.1993,
+      "lng": 140.9945,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/sapporo-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ab9dc7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0135.JPG",
+      "takenAt": "2025-02-08T18:10:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 43.1975,
+      "lng": 140.994,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/sapporo-5.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ec0535",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0136.JPG",
+      "takenAt": "2025-02-09T22:08:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_754ed3",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0137.JPG",
+      "takenAt": "2025-02-12T21:01:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5907,
+      "lng": 126.94967,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_01daa7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0138.JPG",
+      "takenAt": "2025-02-16T16:08:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51936,
+      "lng": 126.95806,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_44ca3d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0139.JPG",
+      "takenAt": "2025-02-20T14:56:38",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52285,
+      "lng": 126.89634,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4ddb9d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0140.JPG",
+      "takenAt": "2025-02-25T17:52:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57877,
+      "lng": 126.92531,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_aeecfe",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0141.JPG",
+      "takenAt": "2025-02-28T15:20:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1587,
+      "lng": 129.1604,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/busan-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ab9d23",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0142.JPG",
+      "takenAt": "2025-03-01T08:50:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1532,
+      "lng": 129.1187,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/busan-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f13ea7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0143.JPG",
+      "takenAt": "2025-03-01T11:30:08",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0975,
+      "lng": 129.0106,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/busan-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3af299",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0144.JPG",
+      "takenAt": "2025-03-01T14:10:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0966,
+      "lng": 129.0306,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/busan-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ca6f69",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0145.JPG",
+      "takenAt": "2025-03-01T16:00:25",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.101,
+      "lng": 129.0325,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/busan-tower-360.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c98ca9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0146.JPG",
+      "takenAt": "2025-03-01T19:30:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.8347,
+      "lng": 129.2266,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/gyeongju-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a4c7da",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0147.JPG",
+      "takenAt": "2025-03-02T10:00:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.79,
+      "lng": 129.332,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/gyeongju-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_066f75",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0148.JPG",
+      "takenAt": "2025-03-02T11:30:54",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.795,
+      "lng": 129.349,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/gyeongju-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4ea1ca",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0149.JPG",
+      "takenAt": "2025-03-02T16:00:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.8347,
+      "lng": 129.219,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/gyeongju-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a329d6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0150.JPG",
+      "takenAt": "2025-03-03T22:52:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1b7d39",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0151.JPG",
+      "takenAt": "2025-03-06T15:53:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54497,
+      "lng": 126.88087,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_78d5c4",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0152.JPG",
+      "takenAt": "2025-03-06T21:16:15",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59219,
+      "lng": 126.93168,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8b9a12",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0153.JPG",
+      "takenAt": "2025-03-07T20:26:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58802,
+      "lng": 126.96393,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_252011",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0154.JPG",
+      "takenAt": "2025-03-08T19:35:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52887,
+      "lng": 126.94173,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_74844a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0155.JPG",
+      "takenAt": "2025-03-17T13:19:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58939,
+      "lng": 126.96682,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_be3140",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0156.JPG",
+      "takenAt": "2025-03-17T18:33:54",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56585,
+      "lng": 126.86922,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_de2194",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0157.JPG",
+      "takenAt": "2025-03-27T15:13:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57829,
+      "lng": 126.88038,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b6ff54",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0158.JPG",
+      "takenAt": "2025-03-27T18:08:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58831,
+      "lng": 126.92273,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_de78ed",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0159.JPG",
+      "takenAt": "2025-03-31T20:42:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54301,
+      "lng": 126.88637,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_367767",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0160.JPG",
+      "takenAt": "2025-04-03T21:46:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57779,
+      "lng": 126.93112,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b123c9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0161.JPG",
+      "takenAt": "2025-04-09T17:03:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59405,
+      "lng": 126.86949,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4063b0",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0162.JPG",
+      "takenAt": "2025-04-10T19:18:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54245,
+      "lng": 126.88884,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8f4b59",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0163.JPG",
+      "takenAt": "2025-04-11T19:43:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55974,
+      "lng": 126.92068,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9abe9a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0164.JPG",
+      "takenAt": "2025-04-16T21:04:51",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54651,
+      "lng": 126.93586,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b7421d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0165.JPG",
+      "takenAt": "2025-04-18T20:47:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57395,
+      "lng": 126.96067,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a2b943",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0166.JPG",
+      "takenAt": "2025-04-21T17:55:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51611,
+      "lng": 126.97043,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ccafba",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0167.JPG",
+      "takenAt": "2025-04-26T15:57:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52362,
+      "lng": 126.90017,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c3fa58",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0168.JPG",
+      "takenAt": "2025-04-28T11:33:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54194,
+      "lng": 126.94389,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3e18ad",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0169.JPG",
+      "takenAt": "2025-05-02T19:59:07",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54589,
+      "lng": 126.95312,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b7e0b0",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0170.JPG",
+      "takenAt": "2025-05-07T16:08:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55388,
+      "lng": 126.88453,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_214795",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0171.JPG",
+      "takenAt": "2025-05-15T14:17:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52626,
+      "lng": 126.94342,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_48f536",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0172.JPG",
+      "takenAt": "2025-05-15T17:56:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51128,
+      "lng": 126.87749,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1e52da",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0173.JPG",
+      "takenAt": "2025-05-18T12:54:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55349,
+      "lng": 126.89966,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b3631d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0174.JPG",
+      "takenAt": "2025-05-19T20:08:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52857,
+      "lng": 126.89636,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_05fe2a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0175.JPG",
+      "takenAt": "2025-05-24T11:53:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51289,
+      "lng": 126.90523,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b7a119",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0176.JPG",
+      "takenAt": "2025-05-29T17:24:15",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53537,
+      "lng": 126.97168,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d51998",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0177.JPG",
+      "takenAt": "2025-05-31T14:15:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5296,
+      "lng": 126.89331,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_064b0f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0178.JPG",
+      "takenAt": "2025-06-02T15:02:37",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52686,
+      "lng": 126.98032,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_af4160",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0179.JPG",
+      "takenAt": "2025-06-07T16:25:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57453,
+      "lng": 126.97352,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dab5d6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0180.JPG",
+      "takenAt": "2025-06-12T20:17:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52224,
+      "lng": 126.91826,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f2fcc6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0181.JPG",
+      "takenAt": "2025-06-16T19:48:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56593,
+      "lng": 126.96947,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6680f5",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0182.JPG",
+      "takenAt": "2025-06-17T11:08:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5668,
+      "lng": 126.95166,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_29e3ff",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0183.JPG",
+      "takenAt": "2025-06-20T16:29:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57178,
+      "lng": 126.94557,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_894344",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0184.JPG",
+      "takenAt": "2025-06-26T14:11:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51413,
+      "lng": 126.96509,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b99a33",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0185.JPG",
+      "takenAt": "2025-06-28T12:40:10",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": null,
+      "lng": null,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3c1060",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0186.JPG",
+      "takenAt": "2025-06-28T18:30:51",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": 49.2897,
+      "lng": -123.1254,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/vancouver-6.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_837519",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0187.JPG",
+      "takenAt": "2025-07-05T14:00:07",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": 49.284,
+      "lng": -123.1086,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/vancouver-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b2a9a9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0188.JPG",
+      "takenAt": "2025-07-12T13:10:15",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": 49.3429,
+      "lng": -123.1149,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/vancouver-5.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_14460a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0189.JPG",
+      "takenAt": "2025-07-26T11:00:07",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": 49.38,
+      "lng": -123.0815,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/vancouver-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_014190",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0190.JPG",
+      "takenAt": "2025-08-09T15:30:12",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": 49.2712,
+      "lng": -123.134,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/vancouver-8.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c4be0a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0191.JPG",
+      "takenAt": "2025-08-23T19:50:07",
+      "offset": "-07:00",
+      "timeUncertain": false,
+      "lat": 49.2848,
+      "lng": -123.1119,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/vancouver-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_606b31",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0192.JPG",
+      "takenAt": "2025-08-25T17:00:00",
+      "offset": "-06:00",
+      "timeUncertain": false,
+      "lat": 51.1784,
+      "lng": -115.5708,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/banff-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_496f15",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0193.JPG",
+      "takenAt": "2025-08-26T08:10:51",
+      "offset": "-06:00",
+      "timeUncertain": false,
+      "lat": 51.3217,
+      "lng": -116.186,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/banff-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bfe8c0",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0194.JPG",
+      "takenAt": "2025-08-26T11:30:08",
+      "offset": "-06:00",
+      "timeUncertain": false,
+      "lat": 51.417,
+      "lng": -116.223,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/banff-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_286991",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0195.JPG",
+      "takenAt": "2025-08-27T22:01:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_20c404",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0196.JPG",
+      "takenAt": "2025-08-30T18:36:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52893,
+      "lng": 126.93478,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e0d194",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0197.JPG",
+      "takenAt": "2025-09-04T17:06:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55914,
+      "lng": 126.89566,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f83b86",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0198.JPG",
+      "takenAt": "2025-09-06T15:23:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54403,
+      "lng": 126.97588,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c04d15",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0199.JPG",
+      "takenAt": "2025-09-11T19:52:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56384,
+      "lng": 126.95887,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_25fb90",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0200.JPG",
+      "takenAt": "2025-09-14T13:30:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52961,
+      "lng": 126.88637,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_18ae40",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0201.JPG",
+      "takenAt": "2025-09-17T14:33:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59419,
+      "lng": 126.86965,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8a6ac3",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0202.JPG",
+      "takenAt": "2025-09-19T19:30:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.6687,
+      "lng": 135.5013,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": "public:/photos/osaka-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1c9e2e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0203.JPG",
+      "takenAt": "2025-09-20T11:00:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.6873,
+      "lng": 135.5262,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/osaka-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e02ff7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0204.JPG",
+      "takenAt": "2025-09-20T20:00:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.6525,
+      "lng": 135.5063,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/osaka-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8b6f51",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0205.JPG",
+      "takenAt": "2025-09-21T15:00:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.686,
+      "lng": 135.53,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/osaka-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_20b6c9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0206.JPG",
+      "takenAt": "2025-09-22T22:06:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9fdbf7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0207.JPG",
+      "takenAt": "2025-09-24T12:11:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5884,
+      "lng": 126.8714,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c2b391",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0208.JPG",
+      "takenAt": "2025-09-29T15:04:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53076,
+      "lng": 126.95997,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_070cdd",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0209.JPG",
+      "takenAt": "2025-09-29T17:19:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51378,
+      "lng": 126.90084,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f309fe",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0210.JPG",
+      "takenAt": "2025-10-04T15:00:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.8132,
+      "lng": 127.149,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/jeonju-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_50c3c9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0211.JPG",
+      "takenAt": "2025-10-04T18:30:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.817,
+      "lng": 127.146,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/jeonju-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c952e9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0212.JPG",
+      "takenAt": "2025-10-05T10:00:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.815,
+      "lng": 127.154,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/jeonju-5.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7b8c41",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0213.JPG",
+      "takenAt": "2025-10-06T22:57:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3a1911",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0214.JPG",
+      "takenAt": "2025-10-08T15:56:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52538,
+      "lng": 126.87256,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_91ff72",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0215.JPG",
+      "takenAt": "2025-10-12T20:13:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5656,
+      "lng": 126.97822,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_68e52d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0216.JPG",
+      "takenAt": "2025-10-13T12:04:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54709,
+      "lng": 126.95322,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8ef390",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0217.JPG",
+      "takenAt": "2025-10-18T13:52:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59085,
+      "lng": 126.87766,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6058ed",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0218.JPG",
+      "takenAt": "2025-10-19T12:55:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58189,
+      "lng": 126.86953,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2dd03b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0219.JPG",
+      "takenAt": "2025-10-25T12:21:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51291,
+      "lng": 126.91495,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7df13d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0220.JPG",
+      "takenAt": "2025-10-30T15:40:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56273,
+      "lng": 126.95302,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a6baab",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0221.JPG",
+      "takenAt": "2025-10-31T21:28:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58194,
+      "lng": 126.937,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2ea4ef",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0222.JPG",
+      "takenAt": "2025-11-03T19:47:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5497,
+      "lng": 126.8733,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c342ff",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0223.JPG",
+      "takenAt": "2025-11-10T18:31:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54341,
+      "lng": 126.87038,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0f7db5",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0224.JPG",
+      "takenAt": "2025-11-12T12:29:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51493,
+      "lng": 126.97718,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_863304",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0225.JPG",
+      "takenAt": "2025-11-14T11:17:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.60087,
+      "lng": 126.95058,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_46acac",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0226.JPG",
+      "takenAt": "2025-11-19T19:28:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58821,
+      "lng": 126.88264,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e35e86",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0227.JPG",
+      "takenAt": "2025-11-22T21:52:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52708,
+      "lng": 126.92272,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5f46b7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0228.JPG",
+      "takenAt": "2025-11-23T12:16:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56246,
+      "lng": 126.96463,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fd3ec3",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0229.JPG",
+      "takenAt": "2025-11-28T18:32:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54352,
+      "lng": 126.95155,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dc5ada",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0230.JPG",
+      "takenAt": "2025-12-01T17:05:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52364,
+      "lng": 126.90524,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7c3532",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0231.JPG",
+      "takenAt": "2025-12-08T18:45:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54154,
+      "lng": 126.92089,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c36e57",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0232.JPG",
+      "takenAt": "2025-12-08T18:52:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54381,
+      "lng": 126.87112,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9b619a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0233.JPG",
+      "takenAt": "2025-12-18T17:44:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59982,
+      "lng": 126.94739,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bc71d4",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0234.JPG",
+      "takenAt": "2025-12-18T19:46:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55187,
+      "lng": 126.86761,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e80cbd",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0235.JPG",
+      "takenAt": "2025-12-19T20:54:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58265,
+      "lng": 126.8849,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c60246",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0236.JPG",
+      "takenAt": "2025-12-26T15:00:03",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/paris-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a17908",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0237.JPG",
+      "takenAt": "2025-12-28T17:10:48",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 48.853,
+      "lng": 2.3499,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/paris-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4a90b2",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0238.JPG",
+      "takenAt": "2025-12-30T11:00:51",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/paris-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_677fcc",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0239.JPG",
+      "takenAt": "2026-01-01T13:00:46",
+      "offset": "+00:00",
+      "timeUncertain": false,
+      "lat": 51.532,
+      "lng": -0.1263,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/london-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c9403e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0240.JPG",
+      "takenAt": "2026-01-02T16:30:02",
+      "offset": "+00:00",
+      "timeUncertain": false,
+      "lat": 51.5055,
+      "lng": -0.0754,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/london-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8d0d6f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0241.JPG",
+      "takenAt": "2026-01-03T10:00:18",
+      "offset": "+00:00",
+      "timeUncertain": false,
+      "lat": 51.5007,
+      "lng": -0.1246,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/london-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fa9e4a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0242.JPG",
+      "takenAt": "2026-01-03T15:20:16",
+      "offset": "+00:00",
+      "timeUncertain": false,
+      "lat": 51.508,
+      "lng": -0.1281,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/london-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_405d61",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0243.JPG",
+      "takenAt": "2026-01-05T14:00:24",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/barcelona-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b19296",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0244.JPG",
+      "takenAt": "2026-01-06T10:00:02",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 41.4036,
+      "lng": 2.1744,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/barcelona-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d6a09c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0245.JPG",
+      "takenAt": "2026-01-07T15:30:13",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 41.4145,
+      "lng": 2.1527,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/barcelona-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f3ecba",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0246.JPG",
+      "takenAt": "2026-01-08T11:00:26",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 41.3916,
+      "lng": 2.1649,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/barcelona-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6e33c3",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0247.JPG",
+      "takenAt": "2026-01-09T22:45:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_59d895",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0248.JPG",
+      "takenAt": "2026-01-12T21:26:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54797,
+      "lng": 126.91786,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_85203e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0249.JPG",
+      "takenAt": "2026-01-21T16:42:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58339,
+      "lng": 126.90553,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8c66b9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0250.JPG",
+      "takenAt": "2026-01-22T19:56:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59428,
+      "lng": 126.91332,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_62474d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0251.JPG",
+      "takenAt": "2026-01-24T20:41:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5546,
+      "lng": 126.9631,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c5b878",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0252.JPG",
+      "takenAt": "2026-01-29T15:36:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54412,
+      "lng": 126.88529,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d4d8a7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0253.JPG",
+      "takenAt": "2026-02-01T11:08:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54095,
+      "lng": 126.91057,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_42be6a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0254.JPG",
+      "takenAt": "2026-02-02T13:32:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57182,
+      "lng": 126.9088,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5e9304",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0255.JPG",
+      "takenAt": "2026-02-10T20:04:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52611,
+      "lng": 126.95978,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_05ad08",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0256.JPG",
+      "takenAt": "2026-02-11T15:32:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5473,
+      "lng": 126.94117,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_96f90c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0257.JPG",
+      "takenAt": "2026-02-15T14:17:53",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5996,
+      "lng": 126.98011,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c4b6ad",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0258.JPG",
+      "takenAt": "2026-02-19T17:19:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57605,
+      "lng": 126.96688,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_68f8e8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0259.JPG",
+      "takenAt": "2026-02-24T11:53:48",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55451,
+      "lng": 126.96551,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e2ac90",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0260.JPG",
+      "takenAt": "2026-02-26T13:35:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53349,
+      "lng": 126.92138,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_921a40",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0261.JPG",
+      "takenAt": "2026-03-01T18:16:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57294,
+      "lng": 126.88674,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ac67f7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0262.JPG",
+      "takenAt": "2026-03-05T18:36:48",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54911,
+      "lng": 126.92021,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_522d2d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0263.JPG",
+      "takenAt": "2026-03-11T18:08:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52779,
+      "lng": 126.95475,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_942888",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0264.JPG",
+      "takenAt": "2026-03-12T18:32:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5851,
+      "lng": 126.92505,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ab33af",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0265.JPG",
+      "takenAt": "2026-03-13T21:11:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55071,
+      "lng": 126.9719,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 13",
+        "focal": 26,
+        "aperture": 1.6,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2cd5a3",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0266.JPG",
+      "takenAt": "2026-03-17T11:36:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54833,
+      "lng": 126.94763,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_46902d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0267.JPG",
+      "takenAt": "2026-03-23T18:57:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59967,
+      "lng": 126.93968,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e9b4bc",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0268.JPG",
+      "takenAt": "2026-03-24T21:12:44",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54432,
+      "lng": 126.89223,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0333,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d3c656",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0269.JPG",
+      "takenAt": "2026-03-27T20:50:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54405,
+      "lng": 126.91072,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.05,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cf4ab5",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0270.JPG",
+      "takenAt": "2026-04-01T14:53:34",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53242,
+      "lng": 126.86795,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f5e82b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0271.JPG",
+      "takenAt": "2026-04-03T20:58:15",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55061,
+      "lng": 126.95716,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_12e775",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0272.JPG",
+      "takenAt": "2026-04-07T21:09:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5504,
+      "lng": 126.97664,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0333,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bac390",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0273.JPG",
+      "takenAt": "2026-04-15T13:21:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59299,
+      "lng": 126.93293,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_22c821",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0274.JPG",
+      "takenAt": "2026-04-16T18:16:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58376,
+      "lng": 126.92142,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d1c7c9",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0275.JPG",
+      "takenAt": "2026-04-18T14:19:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53376,
+      "lng": 126.9683,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a026ea",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0276.JPG",
+      "takenAt": "2026-04-23T18:50:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59995,
+      "lng": 126.96848,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_204569",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0277.JPG",
+      "takenAt": "2026-04-24T15:08:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53552,
+      "lng": 126.93543,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_df4e7a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0278.JPG",
+      "takenAt": "2026-04-26T21:43:25",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52291,
+      "lng": 126.87713,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b05e75",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0279.JPG",
+      "takenAt": "2026-05-06T11:58:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5134,
+      "lng": 126.91695,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cea326",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0280.JPG",
+      "takenAt": "2026-05-07T13:08:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.55533,
+      "lng": 126.94553,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f7f3b4",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0281.JPG",
+      "takenAt": "2026-05-08T18:42:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5997,
+      "lng": 126.92175,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e51f48",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0282.JPG",
+      "takenAt": "2026-05-11T21:58:58",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56577,
+      "lng": 126.86847,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dc2fde",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0283.JPG",
+      "takenAt": "2026-05-20T12:59:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58961,
+      "lng": 126.92913,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8fce4e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0284.JPG",
+      "takenAt": "2026-05-20T14:47:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53882,
+      "lng": 126.91753,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c1e96f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0285.JPG",
+      "takenAt": "2026-05-23T14:00:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.727,
+      "lng": 127.747,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/yeosu-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a7958b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0286.JPG",
+      "takenAt": "2026-05-23T17:20:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.744,
+      "lng": 127.766,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/yeosu-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_aeb3bc",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0287.JPG",
+      "takenAt": "2026-05-24T05:40:54",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.59,
+      "lng": 127.802,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.05,
+        "iso": 800
+      },
+      "fileKey": "public:/photos/yeosu-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cd07f6",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0288.JPG",
+      "takenAt": "2026-05-24T15:00:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0016,
+      "lng": 127.333,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/suncheon-6.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1f8c47",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0289.JPG",
+      "takenAt": "2026-05-25T10:00:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.0003,
+      "lng": 127.2733,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/suncheon-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_506e1a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0290.JPG",
+      "takenAt": "2026-05-25T13:30:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 34.9506,
+      "lng": 127.4872,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/suncheon-5.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1f0f26",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0291.JPG",
+      "takenAt": "2026-05-26T22:22:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_143e87",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0292.JPG",
+      "takenAt": "2026-05-31T11:27:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53817,
+      "lng": 126.9798,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0dc57f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0293.JPG",
+      "takenAt": "2026-05-31T21:20:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56819,
+      "lng": 126.94015,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_98e855",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0294.JPG",
+      "takenAt": "2026-06-06T20:38:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59703,
+      "lng": 126.87425,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3f1c8e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0295.JPG",
+      "takenAt": "2026-06-07T11:33:51",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56382,
+      "lng": 126.87229,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cbc635",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0296.JPG",
+      "takenAt": "2026-06-14T16:03:04",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56556,
+      "lng": 126.90848,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_824c88",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0297.JPG",
+      "takenAt": "2026-06-16T16:30:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54929,
+      "lng": 126.93186,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5eeb56",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0298.JPG",
+      "takenAt": "2026-06-19T14:11:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53133,
+      "lng": 126.91253,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_22a13f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0299.JPG",
+      "takenAt": "2026-06-20T14:32:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53215,
+      "lng": 126.95691,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_43f2d7",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0300.JPG",
+      "takenAt": "2026-06-29T12:26:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53334,
+      "lng": 126.88609,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1983ab",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0301.JPG",
+      "takenAt": "2026-07-01T13:44:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58977,
+      "lng": 126.88174,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9f920e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0302.JPG",
+      "takenAt": "2026-07-07T20:44:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57111,
+      "lng": 126.88567,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_31cd3f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0303.JPG",
+      "takenAt": "2026-07-09T18:21:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.54227,
+      "lng": 126.88935,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8a5b48",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0304.JPG",
+      "takenAt": "2026-07-12T13:03:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5765,
+      "lng": 126.87655,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_336680",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0305.JPG",
+      "takenAt": "2026-07-15T21:31:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51464,
+      "lng": 126.91912,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1eb564",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0306.JPG",
+      "takenAt": "2026-07-18T16:00:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 38.204,
+      "lng": 128.596,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/sokcho-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ea2e56",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0307.JPG",
+      "takenAt": "2026-07-19T08:00:15",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 38.172,
+      "lng": 128.487,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/sokcho-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_98c669",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0308.JPG",
+      "takenAt": "2026-07-19T10:30:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 38.183,
+      "lng": 128.478,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/sokcho-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a9e014",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0309.JPG",
+      "takenAt": "2026-07-19T12:40:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 38.16,
+      "lng": 128.48,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/sokcho-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c0c0e1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0310.JPG",
+      "takenAt": "2026-07-20T22:12:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ce8a3e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0311.JPG",
+      "takenAt": "2026-07-28T15:08:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56936,
+      "lng": 126.94521,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_68ad76",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0312.JPG",
+      "takenAt": "2026-07-29T20:23:15",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.59335,
+      "lng": 126.94237,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7b408c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0313.JPG",
+      "takenAt": "2026-08-05T19:12:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5594,
+      "lng": 126.95451,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0333,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2bdde1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0314.JPG",
+      "takenAt": "2026-08-06T16:14:53",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57727,
+      "lng": 126.91159,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7bd463",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0315.JPG",
+      "takenAt": "2026-08-10T19:42:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51643,
+      "lng": 126.92705,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_412fd8",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0316.JPG",
+      "takenAt": "2026-08-13T17:00:44",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/istanbul-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e424f1",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0317.JPG",
+      "takenAt": "2026-08-14T10:00:41",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0086,
+      "lng": 28.9802,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/istanbul-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6e7779",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0318.JPG",
+      "takenAt": "2026-08-15T13:30:27",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0107,
+      "lng": 28.968,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_962143",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0319.JPG",
+      "takenAt": "2026-08-16T19:00:29",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0256,
+      "lng": 28.9741,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": "public:/photos/istanbul-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_17dba5",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0320.JPG",
+      "takenAt": "2026-08-17T22:42:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.5563,
+      "lng": 126.9236,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_69ff61",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0321.JPG",
+      "takenAt": "2026-08-21T11:50:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56949,
+      "lng": 126.90813,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9c4738",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0322.JPG",
+      "takenAt": "2026-08-27T12:26:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56204,
+      "lng": 126.91276,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_28439e",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0323.JPG",
+      "takenAt": "2026-08-28T12:29:54",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58798,
+      "lng": 126.96511,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8f8a0a",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0324.JPG",
+      "takenAt": "2026-08-28T19:54:25",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52116,
+      "lng": 126.9674,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e2730c",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0325.JPG",
+      "takenAt": "2026-09-05T18:28:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.56413,
+      "lng": 126.90395,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_433946",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0326.JPG",
+      "takenAt": "2026-09-07T13:14:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58181,
+      "lng": 126.92447,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4b44fe",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0327.JPG",
+      "takenAt": "2026-09-11T15:27:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.52844,
+      "lng": 126.94704,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_53a91b",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0328.JPG",
+      "takenAt": "2026-09-16T19:58:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.53455,
+      "lng": 126.92989,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.05,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_caa566",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0329.JPG",
+      "takenAt": "2026-09-20T20:44:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58519,
+      "lng": 126.94636,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3f1b5f",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0330.JPG",
+      "takenAt": "2026-09-23T11:04:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.58218,
+      "lng": 126.97698,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c91209",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0331.JPG",
+      "takenAt": "2026-09-26T18:48:58",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51848,
+      "lng": 126.86988,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_99232d",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0332.JPG",
+      "takenAt": "2026-09-30T14:40:38",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.51867,
+      "lng": 126.96914,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_96cf36",
+      "ownerId": "u_seojin",
+      "fileName": "IMG_0333.JPG",
+      "takenAt": "2026-10-03T16:21:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 37.57325,
+      "lng": 126.9646,
+      "camera": {
+        "make": "Apple",
+        "model": "iPhone 16 Pro",
+        "focal": 24,
+        "aperture": 1.78,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_seojin_1",
+      "ownerId": "u_seojin",
+      "date": "2024-11-24",
+      "title": "기요미즈데라 단풍",
+      "body": "",
+      "tags": [
+        "교토"
+      ],
+      "photoIds": [
+        "p_d3ae09",
+        "p_34d794",
+        "p_21ec44",
+        "p_b9a6c0"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_2",
+      "ownerId": "u_seojin",
+      "date": "2025-02-07",
+      "title": "눈축제",
+      "body": "",
+      "tags": [
+        "삿포로"
+      ],
+      "photoIds": [
+        "p_5795c1",
+        "p_fc772c",
+        "p_b4e817"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_3",
+      "ownerId": "u_seojin",
+      "date": "2025-06-28",
+      "title": "출국",
+      "body": "",
+      "tags": [
+        "밴쿠버"
+      ],
+      "photoIds": [
+        "p_3c1060"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_4",
+      "ownerId": "u_seojin",
+      "date": "2025-06-30",
+      "title": "첫 수업",
+      "body": "",
+      "tags": [
+        "밴쿠버"
+      ],
+      "photoIds": [],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_5",
+      "ownerId": "u_seojin",
+      "date": "2025-07-12",
+      "title": "카필라노 흔들다리",
+      "body": "",
+      "tags": [
+        "밴쿠버"
+      ],
+      "photoIds": [
+        "p_b2a9a9"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_6",
+      "ownerId": "u_seojin",
+      "date": "2025-07-26",
+      "title": "그라우스 산",
+      "body": "",
+      "tags": [
+        "밴쿠버"
+      ],
+      "photoIds": [
+        "p_14460a"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_7",
+      "ownerId": "u_seojin",
+      "date": "2025-08-09",
+      "title": "그랜빌 아일랜드 장보기",
+      "body": "",
+      "tags": [
+        "밴쿠버"
+      ],
+      "photoIds": [
+        "p_014190"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_8",
+      "ownerId": "u_seojin",
+      "date": "2025-08-23",
+      "title": "마지막 저녁",
+      "body": "",
+      "tags": [
+        "밴쿠버"
+      ],
+      "photoIds": [
+        "p_c4be0a"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_9",
+      "ownerId": "u_seojin",
+      "date": "2025-08-26",
+      "title": "모레인 호수",
+      "body": "",
+      "tags": [
+        "밴프"
+      ],
+      "photoIds": [
+        "p_496f15",
+        "p_bfe8c0"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_10",
+      "ownerId": "u_seojin",
+      "date": "2025-09-20",
+      "title": "밴쿠버에서 만난 친구를 오사카에서",
+      "body": "",
+      "tags": [
+        "오사카"
+      ],
+      "photoIds": [
+        "p_1c9e2e",
+        "p_e02ff7"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_11",
+      "ownerId": "u_seojin",
+      "date": "2026-01-01",
+      "title": "유로스타로 런던",
+      "body": "",
+      "tags": [
+        "런던"
+      ],
+      "photoIds": [
+        "p_677fcc"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_12",
+      "ownerId": "u_seojin",
+      "date": "2026-05-24",
+      "title": "향일암 일출",
+      "body": "",
+      "tags": [
+        "여수"
+      ],
+      "photoIds": [
+        "p_aeb3bc",
+        "p_cd07f6"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_seojin_13",
+      "ownerId": "u_seojin",
+      "date": "2026-08-14",
+      "title": "아야 소피아",
+      "body": "",
+      "tags": [
+        "이스탄불"
+      ],
+      "photoIds": [
+        "p_e424f1"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "c_seojin_1",
+      "ownerId": "u_seojin",
+      "type": "rename",
+      "anchorPhotoId": "p_c60246",
+      "name": "졸업 여행",
+      "createdAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "c_seojin_2",
+      "ownerId": "u_seojin",
+      "type": "rename",
+      "anchorPhotoId": "p_c1e96f",
+      "name": "여수 · 순천",
+      "createdAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "c_seojin_3",
+      "ownerId": "u_seojin",
+      "type": "mode",
+      "fromPhotoId": "p_c4be0a",
+      "mode": "car",
+      "createdAt": "2026-10-01T21:00:00+09:00"
+    }
+  ]
+}
