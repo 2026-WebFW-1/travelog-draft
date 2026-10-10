@@ -1,0 +1,5333 @@
+{
+  "user": {
+    "id": "u_edge",
+    "email": "edge@demo.local",
+    "name": "이하람",
+    "picture": null,
+    "provider": "demo",
+    "createdAt": "2026-10-01T21:00:00+09:00"
+  },
+  "photos": [
+    {
+      "id": "p_3e527e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0001.JPG",
+      "takenAt": "2000-01-01T09:00:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1802,
+      "lng": 129.076,
+      "camera": null,
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8d87b8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0002.JPG",
+      "takenAt": "2024-06-01T14:55:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14847,
+      "lng": 129.03692,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a98707",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0003.JPG",
+      "takenAt": "2024-06-04T12:55:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19831,
+      "lng": 129.13786,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d995aa",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0004.JPG",
+      "takenAt": "2024-06-11T16:53:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14472,
+      "lng": 129.05724,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_586fde",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0005.JPG",
+      "takenAt": "2024-06-13T21:39:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23001,
+      "lng": 129.09057,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0df073",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0006.JPG",
+      "takenAt": "2024-06-17T12:23:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14896,
+      "lng": 129.1078,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d8d0ec",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0007.JPG",
+      "takenAt": "2024-06-18T18:20:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13315,
+      "lng": 129.07,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e4c660",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0008.JPG",
+      "takenAt": "2024-06-24T21:17:08",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1433,
+      "lng": 129.13436,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_478a8c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0009.JPG",
+      "takenAt": "2024-06-26T15:56:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15834,
+      "lng": 129.11297,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1e6cf2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0010.JPG",
+      "takenAt": "2024-06-30T13:52:38",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22331,
+      "lng": 129.12019,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f4e970",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0011.JPG",
+      "takenAt": "2024-07-02T15:22:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20914,
+      "lng": 129.06246,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8d5e12",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0012.JPG",
+      "takenAt": "2024-07-07T20:14:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21324,
+      "lng": 129.04993,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5160cd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0013.JPG",
+      "takenAt": "2024-07-10T19:25:48",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19227,
+      "lng": 129.01669,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d1f624",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0014.JPG",
+      "takenAt": "2024-07-13T20:25:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20309,
+      "lng": 129.07141,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_39bd73",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0015.JPG",
+      "takenAt": "2024-07-19T12:06:48",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.12875,
+      "lng": 129.05329,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7c390e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0016.JPG",
+      "takenAt": "2024-07-24T13:44:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14178,
+      "lng": 129.06923,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c863d8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0017.JPG",
+      "takenAt": "2024-07-26T19:38:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17211,
+      "lng": 129.0361,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2e9c12",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0018.JPG",
+      "takenAt": "2024-07-29T19:20:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1862,
+      "lng": 129.06968,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_293af0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0019.JPG",
+      "takenAt": "2024-08-02T12:07:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21001,
+      "lng": 129.0671,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_849607",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0020.JPG",
+      "takenAt": "2024-08-07T14:51:04",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23363,
+      "lng": 129.13274,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_01a663",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0021.JPG",
+      "takenAt": "2024-08-08T13:08:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18882,
+      "lng": 129.02785,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0e9d7e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0022.JPG",
+      "takenAt": "2024-08-14T20:44:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23111,
+      "lng": 129.11584,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a4f4ff",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0023.JPG",
+      "takenAt": "2024-08-15T15:53:07",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13771,
+      "lng": 129.0246,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dca6cc",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0024.JPG",
+      "takenAt": "2024-08-21T14:54:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18445,
+      "lng": 129.05804,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ffea40",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0025.JPG",
+      "takenAt": "2024-08-21T20:35:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16628,
+      "lng": 129.07395,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_68fbfe",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0026.JPG",
+      "takenAt": "2024-08-28T14:17:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15269,
+      "lng": 129.11162,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6d9dd7",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0027.JPG",
+      "takenAt": "2024-08-30T15:42:39",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21475,
+      "lng": 129.02108,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3e3110",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0028.JPG",
+      "takenAt": "2024-09-01T19:00:59",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 13.7589,
+      "lng": 100.4974,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ed0c68",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0029.JPG",
+      "takenAt": "2024-09-03T15:00:11",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 13.7266,
+      "lng": 100.5104,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6e3edd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0030.JPG",
+      "takenAt": "2024-09-21T11:00:29",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 18.7883,
+      "lng": 98.9853,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1b5531",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0031.JPG",
+      "takenAt": "2024-09-23T09:30:34",
+      "offset": "+07:00",
+      "timeUncertain": false,
+      "lat": 18.8048,
+      "lng": 98.9216,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ffeb1e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0032.JPG",
+      "takenAt": "2024-09-24T22:55:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_485d7a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0033.JPG",
+      "takenAt": "2024-09-26T12:17:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14625,
+      "lng": 129.05615,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c2d429",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0034.JPG",
+      "takenAt": "2024-09-27T12:17:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15168,
+      "lng": 129.1234,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f3c0e0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0035.JPG",
+      "takenAt": "2024-09-29T12:18:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21664,
+      "lng": 129.01845,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_efc7bb",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0036.JPG",
+      "takenAt": "2024-10-04T15:10:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2264,
+      "lng": 129.0926,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_74e7ed",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0037.JPG",
+      "takenAt": "2024-10-09T19:39:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18377,
+      "lng": 129.04412,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d9f29e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0038.JPG",
+      "takenAt": "2024-10-11T17:39:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17624,
+      "lng": 129.08773,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6cce12",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0039.JPG",
+      "takenAt": "2024-10-17T20:15:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19893,
+      "lng": 129.04991,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f198d5",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0040.JPG",
+      "takenAt": "2024-10-17T21:51:20",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17511,
+      "lng": 129.03609,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3a930e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0041.JPG",
+      "takenAt": "2024-10-20T11:25:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1381,
+      "lng": 129.12826,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fe39a8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0042.JPG",
+      "takenAt": "2024-10-22T20:41:36",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14394,
+      "lng": 129.0323,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_10365a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0043.JPG",
+      "takenAt": "2024-10-26T16:06:08",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19539,
+      "lng": 129.02144,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_089daf",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0044.JPG",
+      "takenAt": "2024-10-31T21:30:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2028,
+      "lng": 129.11823,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0da36b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0045.JPG",
+      "takenAt": "2024-11-05T19:34:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17767,
+      "lng": 129.1306,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9f8c0d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0046.JPG",
+      "takenAt": "2024-11-08T21:34:37",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16684,
+      "lng": 129.02943,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_942597",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0047.JPG",
+      "takenAt": "2024-11-09T12:13:34",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15024,
+      "lng": 129.02739,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a7455b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0048.JPG",
+      "takenAt": "2024-11-13T15:56:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1916,
+      "lng": 129.12073,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e67178",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0049.JPG",
+      "takenAt": "2024-11-19T16:51:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13699,
+      "lng": 129.08539,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_526db2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0050.JPG",
+      "takenAt": "2024-11-20T12:53:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14969,
+      "lng": 129.0352,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d1ce26",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0051.JPG",
+      "takenAt": "2024-11-24T15:32:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21602,
+      "lng": 129.10169,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_faf04f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0052.JPG",
+      "takenAt": "2024-11-28T15:21:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20034,
+      "lng": 129.0986,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_319dd1",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0053.JPG",
+      "takenAt": "2024-12-03T17:08:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19137,
+      "lng": 129.10939,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cea6b5",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0054.JPG",
+      "takenAt": "2024-12-05T15:06:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20196,
+      "lng": 129.11004,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_05bab8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0055.JPG",
+      "takenAt": "2024-12-10T12:14:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18053,
+      "lng": 129.1066,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_49c05f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0056.JPG",
+      "takenAt": "2024-12-11T20:41:04",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21022,
+      "lng": 129.09851,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bab086",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0057.JPG",
+      "takenAt": "2024-12-15T11:04:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1539,
+      "lng": 129.01297,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_79fbec",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0058.JPG",
+      "takenAt": "2024-12-20T18:00:07",
+      "offset": "+08:00",
+      "timeUncertain": false,
+      "lat": 1.2834,
+      "lng": 103.8607,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0096d4",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0059.JPG",
+      "takenAt": "2024-12-21T10:00:41",
+      "offset": "+08:00",
+      "timeUncertain": false,
+      "lat": 1.2816,
+      "lng": 103.8636,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a85ab2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0060.JPG",
+      "takenAt": "2024-12-22T13:00:43",
+      "offset": "+08:00",
+      "timeUncertain": false,
+      "lat": 1.4927,
+      "lng": 103.7414,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_353ab3",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0061.JPG",
+      "takenAt": "2024-12-23T11:00:35",
+      "offset": "+08:00",
+      "timeUncertain": false,
+      "lat": 1.3644,
+      "lng": 103.9915,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_840b20",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0062.JPG",
+      "takenAt": "2024-12-24T22:41:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bab53c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0063.JPG",
+      "takenAt": "2024-12-27T21:23:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14333,
+      "lng": 129.02184,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_520d41",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0064.JPG",
+      "takenAt": "2024-12-28T14:41:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17036,
+      "lng": 129.05582,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b25fef",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0065.JPG",
+      "takenAt": "2025-01-03T12:42:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15877,
+      "lng": 129.08279,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_48208e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0066.JPG",
+      "takenAt": "2025-01-04T20:58:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23002,
+      "lng": 129.0859,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_314858",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0067.JPG",
+      "takenAt": "2025-01-09T14:34:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15987,
+      "lng": 129.06539,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_59c261",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0068.JPG",
+      "takenAt": "2025-01-12T21:49:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17803,
+      "lng": 129.05906,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_00b2d8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0069.JPG",
+      "takenAt": "2025-01-15T14:07:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22936,
+      "lng": 129.06427,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_34dd5f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0070.JPG",
+      "takenAt": "2025-01-18T19:03:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18647,
+      "lng": 129.1018,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0aac8a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0071.JPG",
+      "takenAt": "2025-01-24T16:39:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19193,
+      "lng": 129.09078,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a81003",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0072.JPG",
+      "takenAt": "2025-01-25T16:57:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14213,
+      "lng": 129.03302,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9868ea",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0073.JPG",
+      "takenAt": "2025-01-28T15:55:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15842,
+      "lng": 129.06933,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3ec040",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0074.JPG",
+      "takenAt": "2025-01-30T15:00:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6896,
+      "lng": 139.7006,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/tokyo-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_eb5521",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0075.JPG",
+      "takenAt": "2025-01-31T23:59:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6595,
+      "lng": 139.7005,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": "public:/photos/tokyo-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e048e4",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0076.JPG",
+      "takenAt": "2025-02-01T00:00:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6598,
+      "lng": 139.701,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8e0fff",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0077.JPG",
+      "takenAt": "2025-02-01T10:00:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.7148,
+      "lng": 139.7967,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/tokyo-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_889388",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0078.JPG",
+      "takenAt": "2025-02-02T18:00:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.6586,
+      "lng": 139.7454,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/tokyo-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c70050",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0079.JPG",
+      "takenAt": "2025-02-03T22:41:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b5be51",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0080.JPG",
+      "takenAt": "2025-02-06T18:42:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21313,
+      "lng": 129.10889,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c7f9e6",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0081.JPG",
+      "takenAt": "2025-02-07T14:44:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14237,
+      "lng": 129.1032,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3dd274",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0082.JPG",
+      "takenAt": "2025-02-11T20:52:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19144,
+      "lng": 129.12411,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_607f8d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0083.JPG",
+      "takenAt": "2025-02-13T18:06:38",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19682,
+      "lng": 129.07291,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c68612",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0084.JPG",
+      "takenAt": "2025-02-15T16:33:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15301,
+      "lng": 129.07555,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2d2474",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0085.JPG",
+      "takenAt": "2025-02-20T15:27:39",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14284,
+      "lng": 129.08259,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_46113f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0086.JPG",
+      "takenAt": "2025-02-23T16:06:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19425,
+      "lng": 129.08503,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_77272a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0087.JPG",
+      "takenAt": "2025-02-26T13:11:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17516,
+      "lng": 129.05902,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a85c11",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0088.JPG",
+      "takenAt": "2025-03-01T09:00:35",
+      "offset": "-10:00",
+      "timeUncertain": false,
+      "lat": 21.2793,
+      "lng": -157.8293,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5bec03",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0089.JPG",
+      "takenAt": "2025-03-02T14:00:24",
+      "offset": "-10:00",
+      "timeUncertain": false,
+      "lat": 21.262,
+      "lng": -157.806,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c1bcab",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0090.JPG",
+      "takenAt": "2025-03-04T19:00:56",
+      "offset": "-10:00",
+      "timeUncertain": false,
+      "lat": 21.2911,
+      "lng": -157.8436,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a6b453",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0091.JPG",
+      "takenAt": "2025-03-05T22:38:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1bc6a7",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0092.JPG",
+      "takenAt": "2025-03-11T16:33:42",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16693,
+      "lng": 129.04898,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d4786f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0093.JPG",
+      "takenAt": "2025-03-13T16:25:39",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16382,
+      "lng": 129.06787,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8845db",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0094.JPG",
+      "takenAt": "2025-03-15T19:49:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14058,
+      "lng": 129.03316,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_14b42f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0095.JPG",
+      "takenAt": "2025-03-21T21:36:25",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23142,
+      "lng": 129.1029,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_673baf",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0096.JPG",
+      "takenAt": "2025-03-24T21:17:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19738,
+      "lng": 129.07136,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_26ada1",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0097.JPG",
+      "takenAt": "2025-03-26T13:01:11",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14435,
+      "lng": 129.07086,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bc035c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0098.JPG",
+      "takenAt": "2025-03-29T15:14:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22054,
+      "lng": 129.04825,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5a1cdb",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0099.JPG",
+      "takenAt": "2025-04-01T20:41:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17632,
+      "lng": 129.03761,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2bf830",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0100.JPG",
+      "takenAt": "2025-04-06T15:25:39",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20791,
+      "lng": 129.0701,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_44994c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0101.JPG",
+      "takenAt": "2025-04-10T06:30:50",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 25.2731,
+      "lng": 51.6081,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_73f510",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0102.JPG",
+      "takenAt": "2025-04-10T17:00:11",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0082,
+      "lng": 28.9784,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/istanbul-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0b770e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0103.JPG",
+      "takenAt": "2025-04-11T10:00:11",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0086,
+      "lng": 28.9802,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/istanbul-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dfec5e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0104.JPG",
+      "takenAt": "2025-04-12T18:30:36",
+      "offset": "+03:00",
+      "timeUncertain": false,
+      "lat": 41.0256,
+      "lng": 28.9741,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/istanbul-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7f4efa",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0105.JPG",
+      "takenAt": "2025-04-13T22:29:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_52b6ba",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0106.JPG",
+      "takenAt": "2025-04-16T14:57:07",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20588,
+      "lng": 129.01281,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e6dbd0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0107.JPG",
+      "takenAt": "2025-04-19T16:11:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21686,
+      "lng": 129.03159,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7abe09",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0108.JPG",
+      "takenAt": "2025-04-25T21:37:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13752,
+      "lng": 129.13051,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_625ed9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0109.JPG",
+      "takenAt": "2025-04-26T12:51:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23197,
+      "lng": 129.04494,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bddbc2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0110.JPG",
+      "takenAt": "2025-04-27T12:35:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20052,
+      "lng": 129.10302,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_13d3f9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0111.JPG",
+      "takenAt": "2025-05-08T11:14:58",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18053,
+      "lng": 129.1247,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cfab38",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0112.JPG",
+      "takenAt": "2025-05-09T15:04:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20741,
+      "lng": 129.07474,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8daa8a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0113.JPG",
+      "takenAt": "2025-05-13T18:39:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13679,
+      "lng": 129.05209,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0b3d9b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0114.JPG",
+      "takenAt": "2025-05-14T20:48:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21936,
+      "lng": 129.10523,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a5355c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0115.JPG",
+      "takenAt": "2025-05-22T13:05:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18814,
+      "lng": 129.14025,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2c0eed",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0116.JPG",
+      "takenAt": "2025-05-23T16:13:06",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13693,
+      "lng": 129.04746,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1f4c4b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0117.JPG",
+      "takenAt": "2025-05-28T15:31:44",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.23168,
+      "lng": 129.01123,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_823b85",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0118.JPG",
+      "takenAt": "2025-05-28T20:44:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13505,
+      "lng": 129.07098,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d689ca",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0119.JPG",
+      "takenAt": "2025-06-02T12:29:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16126,
+      "lng": 129.11135,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dc7c3d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0120.JPG",
+      "takenAt": "2025-06-06T20:00:33",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17612,
+      "lng": 129.07229,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c715c7",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0121.JPG",
+      "takenAt": "2025-06-07T16:56:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13222,
+      "lng": 129.13467,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_662713",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0122.JPG",
+      "takenAt": "2025-06-10T14:43:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16653,
+      "lng": 129.0752,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d8b0ec",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0123.JPG",
+      "takenAt": "2025-06-15T12:00:31",
+      "offset": null,
+      "timeUncertain": true,
+      "lat": 35.179,
+      "lng": 129.075,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0d0e00",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0124.JPG",
+      "takenAt": "2025-06-15T17:16:38",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2074,
+      "lng": 129.06316,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5f2c77",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0125.JPG",
+      "takenAt": "2025-06-15T18:04:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13599,
+      "lng": 129.023,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_55a377",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0126.JPG",
+      "takenAt": "2025-06-21T16:59:22",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20643,
+      "lng": 129.01261,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a9e0fe",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0127.JPG",
+      "takenAt": "2025-06-26T12:12:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13878,
+      "lng": 129.05316,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6bd7d1",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0128.JPG",
+      "takenAt": "2025-07-02T18:56:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15437,
+      "lng": 129.1317,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e852e8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0129.JPG",
+      "takenAt": "2025-07-04T16:40:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18441,
+      "lng": 129.13259,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_4d6121",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0130.JPG",
+      "takenAt": "2025-07-06T14:19:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16376,
+      "lng": 129.04357,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2942fd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0131.JPG",
+      "takenAt": "2025-07-11T14:36:36",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13103,
+      "lng": 129.0525,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_167fd2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0132.JPG",
+      "takenAt": "2025-07-13T20:42:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19277,
+      "lng": 129.10583,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_753ee9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0133.JPG",
+      "takenAt": "2025-07-14T13:49:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17326,
+      "lng": 129.03338,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8e3079",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0134.JPG",
+      "takenAt": "2025-07-21T11:20:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16103,
+      "lng": 129.13335,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bb1435",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0135.JPG",
+      "takenAt": "2025-07-24T12:24:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14444,
+      "lng": 129.1228,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8b7ebc",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0136.JPG",
+      "takenAt": "2025-07-27T17:29:34",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16628,
+      "lng": 129.08538,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_dabafe",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0137.JPG",
+      "takenAt": "2025-08-01T12:00:49",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 51.508,
+      "lng": -0.1281,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/london-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e3fc77",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0138.JPG",
+      "takenAt": "2025-08-03T17:00:10",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 51.5055,
+      "lng": -0.0754,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/london-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6936a2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0139.JPG",
+      "takenAt": "2025-08-21T10:00:59",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 51.5007,
+      "lng": -0.1246,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/london-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_57d4a2",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0140.JPG",
+      "takenAt": "2025-08-25T08:00:33",
+      "offset": "+01:00",
+      "timeUncertain": false,
+      "lat": 51.532,
+      "lng": -0.1263,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/london-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8b9532",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0141.JPG",
+      "takenAt": "2025-08-26T22:49:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_110d32",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0142.JPG",
+      "takenAt": "2025-09-01T15:00:19",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 48.8566,
+      "lng": 2.3522,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": "public:/photos/paris-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3a1f39",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0143.JPG",
+      "takenAt": "2025-09-07T19:00:09",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 48.853,
+      "lng": 2.3499,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 1250
+      },
+      "fileKey": "public:/photos/paris-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7d74cb",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0144.JPG",
+      "takenAt": "2025-09-14T11:00:21",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 48.8606,
+      "lng": 2.3376,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/paris-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c1d883",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0145.JPG",
+      "takenAt": "2025-09-15T22:01:39",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9ffc6a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0146.JPG",
+      "takenAt": "2025-09-21T12:30:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19974,
+      "lng": 129.02647,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_91e81c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0147.JPG",
+      "takenAt": "2025-09-24T19:13:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16781,
+      "lng": 129.0506,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2edd86",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0148.JPG",
+      "takenAt": "2025-09-27T18:55:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18435,
+      "lng": 129.10312,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6390ec",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0149.JPG",
+      "takenAt": "2025-09-28T14:39:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13052,
+      "lng": 129.0316,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_97d0f0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0150.JPG",
+      "takenAt": "2025-10-01T14:00:28",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 41.3874,
+      "lng": 2.1686,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": "public:/photos/barcelona-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b991e4",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0151.JPG",
+      "takenAt": "2025-10-05T10:00:17",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 41.4036,
+      "lng": 2.1744,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/barcelona-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_45c1cb",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0152.JPG",
+      "takenAt": "2025-10-09T16:00:48",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 41.4145,
+      "lng": 2.1527,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/barcelona-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5c38af",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0153.JPG",
+      "takenAt": "2025-10-13T12:00:47",
+      "offset": "+02:00",
+      "timeUncertain": false,
+      "lat": 41.3916,
+      "lng": 2.1649,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/barcelona-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_bfcdc0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0154.JPG",
+      "takenAt": "2025-10-14T22:21:11",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_451a30",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0155.JPG",
+      "takenAt": "2025-10-16T20:51:18",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14269,
+      "lng": 129.02149,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_56f48f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0156.JPG",
+      "takenAt": "2025-10-18T16:46:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21683,
+      "lng": 129.11629,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6ab360",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0157.JPG",
+      "takenAt": "2025-10-23T13:58:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14411,
+      "lng": 129.05885,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_111dc7",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0158.JPG",
+      "takenAt": "2025-10-29T11:01:11",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14597,
+      "lng": 129.10063,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_531a39",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0159.JPG",
+      "takenAt": "2025-10-30T14:28:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21294,
+      "lng": 129.02572,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d42407",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0160.JPG",
+      "takenAt": "2025-11-03T16:15:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21849,
+      "lng": 129.12218,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_877946",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0161.JPG",
+      "takenAt": "2025-11-06T12:54:26",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20069,
+      "lng": 129.01356,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_de31ea",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0162.JPG",
+      "takenAt": "2025-11-12T17:02:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18981,
+      "lng": 129.11771,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_648a2f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0163.JPG",
+      "takenAt": "2025-11-13T17:16:51",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14167,
+      "lng": 129.09489,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d4bc89",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0164.JPG",
+      "takenAt": "2025-11-17T15:49:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16418,
+      "lng": 129.08113,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d2ae30",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0165.JPG",
+      "takenAt": "2025-11-19T19:15:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19533,
+      "lng": 129.05178,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d1234a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0166.JPG",
+      "takenAt": "2025-11-22T16:37:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15895,
+      "lng": 129.12167,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c75a2c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0167.JPG",
+      "takenAt": "2025-11-28T12:04:07",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21583,
+      "lng": 129.02366,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ad7060",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0168.JPG",
+      "takenAt": "2025-11-30T18:01:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22366,
+      "lng": 129.10955,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_21693d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0169.JPG",
+      "takenAt": "2025-12-04T15:46:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17233,
+      "lng": 129.06097,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5a7b91",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0170.JPG",
+      "takenAt": "2025-12-09T18:47:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2004,
+      "lng": 129.13759,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5ed12e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0171.JPG",
+      "takenAt": "2025-12-11T21:43:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16642,
+      "lng": 129.11247,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e2569d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0172.JPG",
+      "takenAt": "2025-12-14T12:54:46",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22371,
+      "lng": 129.08762,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8345be",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0173.JPG",
+      "takenAt": "2025-12-14T12:55:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21184,
+      "lng": 129.06729,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d7315b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0174.JPG",
+      "takenAt": "2025-12-22T20:26:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15404,
+      "lng": 129.06146,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f70e87",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0175.JPG",
+      "takenAt": "2025-12-26T21:07:51",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21842,
+      "lng": 129.1198,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0d5fed",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0176.JPG",
+      "takenAt": "2025-12-29T13:13:08",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18285,
+      "lng": 129.08512,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2a834c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0177.JPG",
+      "takenAt": "2026-01-01T14:15:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18003,
+      "lng": 129.07414,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_852be8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0178.JPG",
+      "takenAt": "2026-01-05T17:44:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19422,
+      "lng": 129.04219,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0b4ad7",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0179.JPG",
+      "takenAt": "2026-01-10T18:00:30",
+      "offset": "+11:00",
+      "timeUncertain": false,
+      "lat": -33.8688,
+      "lng": 151.2093,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/sydney-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_6a6b8f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0180.JPG",
+      "takenAt": "2026-01-11T10:00:04",
+      "offset": "+11:00",
+      "timeUncertain": false,
+      "lat": null,
+      "lng": null,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/sydney-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f0656b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0181.JPG",
+      "takenAt": "2026-01-11T13:00:50",
+      "offset": "+11:00",
+      "timeUncertain": false,
+      "lat": null,
+      "lng": null,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1b0115",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0182.JPG",
+      "takenAt": "2026-01-11T16:00:18",
+      "offset": "+11:00",
+      "timeUncertain": false,
+      "lat": null,
+      "lng": null,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_86bfdc",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0183.JPG",
+      "takenAt": "2026-01-12T11:00:16",
+      "offset": "+11:00",
+      "timeUncertain": false,
+      "lat": -33.8915,
+      "lng": 151.2767,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/sydney-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fa31bd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0184.JPG",
+      "takenAt": "2026-01-14T09:00:52",
+      "offset": "+11:00",
+      "timeUncertain": false,
+      "lat": -33.8523,
+      "lng": 151.2108,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/sydney-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_51447c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0185.JPG",
+      "takenAt": "2026-01-15T22:51:15",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_55f44d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0186.JPG",
+      "takenAt": "2026-01-17T11:02:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22943,
+      "lng": 129.13792,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_007509",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0187.JPG",
+      "takenAt": "2026-01-22T20:12:24",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18587,
+      "lng": 129.11837,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_88ca57",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0188.JPG",
+      "takenAt": "2026-01-24T11:31:14",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14676,
+      "lng": 129.04969,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cf10ab",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0189.JPG",
+      "takenAt": "2026-01-24T21:27:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22137,
+      "lng": 129.03384,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d67236",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0190.JPG",
+      "takenAt": "2026-02-04T13:58:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16942,
+      "lng": 129.0096,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a37ffb",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0191.JPG",
+      "takenAt": "2026-02-04T19:58:58",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13726,
+      "lng": 129.08521,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_725312",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0192.JPG",
+      "takenAt": "2026-02-08T14:44:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14892,
+      "lng": 129.07707,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_381fae",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0193.JPG",
+      "takenAt": "2026-02-12T13:53:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1916,
+      "lng": 129.09735,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_abcd24",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0194.JPG",
+      "takenAt": "2026-02-14T11:07:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19562,
+      "lng": 129.10472,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ffe5c0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0195.JPG",
+      "takenAt": "2026-02-14T14:18:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19289,
+      "lng": 129.03419,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fb6dfb",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0196.JPG",
+      "takenAt": "2026-02-22T12:45:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1745,
+      "lng": 129.10916,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c99190",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0197.JPG",
+      "takenAt": "2026-02-27T13:21:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16765,
+      "lng": 129.13114,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7f87e5",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0198.JPG",
+      "takenAt": "2026-02-28T14:38:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16345,
+      "lng": 129.05982,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b05df9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0199.JPG",
+      "takenAt": "2026-03-05T17:08:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15267,
+      "lng": 129.08968,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f5c311",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0200.JPG",
+      "takenAt": "2026-03-07T20:41:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22235,
+      "lng": 129.05844,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_17e6ca",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0201.JPG",
+      "takenAt": "2026-03-10T16:38:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15503,
+      "lng": 129.06237,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e49c70",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0202.JPG",
+      "takenAt": "2026-03-20T17:51:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2236,
+      "lng": 129.05554,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_129c7a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0203.JPG",
+      "takenAt": "2026-03-20T18:15:41",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13375,
+      "lng": 129.12598,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7fc318",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0204.JPG",
+      "takenAt": "2026-03-21T16:12:47",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17855,
+      "lng": 129.0977,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c4982e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0205.JPG",
+      "takenAt": "2026-03-22T18:30:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15866,
+      "lng": 129.03931,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_165e23",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0206.JPG",
+      "takenAt": "2026-03-29T20:38:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20747,
+      "lng": 129.08527,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9679d6",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0207.JPG",
+      "takenAt": "2026-04-02T14:45:03",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14765,
+      "lng": 129.11643,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a42fae",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0208.JPG",
+      "takenAt": "2026-04-05T12:46:55",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22253,
+      "lng": 129.08567,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_849a03",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0209.JPG",
+      "takenAt": "2026-04-10T17:43:58",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19169,
+      "lng": 129.05037,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_909681",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0210.JPG",
+      "takenAt": "2026-04-12T18:25:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.21119,
+      "lng": 129.02857,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_eb356e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0211.JPG",
+      "takenAt": "2026-04-16T12:02:23",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18989,
+      "lng": 129.1101,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d3b7fd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0212.JPG",
+      "takenAt": "2026-04-18T16:00:33",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 43.6532,
+      "lng": -79.3832,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/toronto-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3385fa",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0213.JPG",
+      "takenAt": "2026-04-19T13:00:27",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 43.09,
+      "lng": -79.079,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": "public:/photos/toronto-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_02d3c9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0214.JPG",
+      "takenAt": "2026-04-20T11:00:10",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 43.6426,
+      "lng": -79.3871,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": "public:/photos/toronto-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_591c3c",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0215.JPG",
+      "takenAt": "2026-04-21T15:00:29",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 43.6503,
+      "lng": -79.3596,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": "public:/photos/toronto-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_318e77",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0216.JPG",
+      "takenAt": "2026-04-22T18:00:15",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 40.7128,
+      "lng": -74.006,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": "public:/photos/newyork-1.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5d5be4",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0217.JPG",
+      "takenAt": "2026-04-23T21:00:24",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 40.758,
+      "lng": -73.9855,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": "public:/photos/newyork-2.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7a7b8a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0218.JPG",
+      "takenAt": "2026-04-24T10:00:49",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 40.7829,
+      "lng": -73.9654,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/newyork-3.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ad3be5",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0219.JPG",
+      "takenAt": "2026-04-25T17:00:41",
+      "offset": "-04:00",
+      "timeUncertain": false,
+      "lat": 40.7061,
+      "lng": -73.9969,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": "public:/photos/newyork-4.jpg",
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_1c6b33",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0220.JPG",
+      "takenAt": "2026-04-26T22:52:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1796,
+      "lng": 129.0756,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f0103e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0221.JPG",
+      "takenAt": "2026-05-04T21:21:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20733,
+      "lng": 129.05577,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_7a80d1",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0222.JPG",
+      "takenAt": "2026-05-06T15:15:36",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20978,
+      "lng": 129.01722,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0a3a20",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0223.JPG",
+      "takenAt": "2026-05-12T15:26:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18777,
+      "lng": 129.1256,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b7b654",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0224.JPG",
+      "takenAt": "2026-05-14T14:12:10",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1352,
+      "lng": 129.1225,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_a70bdf",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0225.JPG",
+      "takenAt": "2026-05-18T16:07:19",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15699,
+      "lng": 129.05219,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_423c94",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0226.JPG",
+      "takenAt": "2026-05-20T15:44:35",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1983,
+      "lng": 129.04472,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_020aa5",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0227.JPG",
+      "takenAt": "2026-05-24T20:18:27",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2323,
+      "lng": 129.02193,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_2d2830",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0228.JPG",
+      "takenAt": "2026-05-25T19:42:02",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1311,
+      "lng": 129.09475,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d513ca",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0229.JPG",
+      "takenAt": "2026-06-02T19:02:12",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16745,
+      "lng": 129.0534,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 800
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_87dc23",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0230.JPG",
+      "takenAt": "2026-06-03T21:25:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1607,
+      "lng": 129.11556,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_41197a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0231.JPG",
+      "takenAt": "2026-06-06T14:41:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20073,
+      "lng": 129.04723,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5e89ab",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0232.JPG",
+      "takenAt": "2026-06-07T19:10:56",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15552,
+      "lng": 129.02504,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.05,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8e53ef",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0233.JPG",
+      "takenAt": "2026-06-13T20:59:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22565,
+      "lng": 129.05022,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9898db",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0234.JPG",
+      "takenAt": "2026-06-17T18:07:52",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15261,
+      "lng": 129.04822,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_969f50",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0235.JPG",
+      "takenAt": "2026-06-22T19:57:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1396,
+      "lng": 129.10718,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f559fe",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0236.JPG",
+      "takenAt": "2026-06-23T11:27:46",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15966,
+      "lng": 129.08427,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_187a30",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0237.JPG",
+      "takenAt": "2026-06-29T20:28:50",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1695,
+      "lng": 129.03489,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0667,
+        "iso": 1250
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c99ee9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0238.JPG",
+      "takenAt": "2026-07-02T19:44:29",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17921,
+      "lng": 129.11909,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5e3e33",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0239.JPG",
+      "takenAt": "2026-07-05T15:42:01",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19936,
+      "lng": 129.04874,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e11403",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0240.JPG",
+      "takenAt": "2026-07-09T19:08:59",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18359,
+      "lng": 129.12023,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0333,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f69183",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0241.JPG",
+      "takenAt": "2026-07-14T19:16:17",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18954,
+      "lng": 129.01076,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_45896f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0242.JPG",
+      "takenAt": "2026-07-17T18:33:32",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16157,
+      "lng": 129.0337,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_f22b42",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0243.JPG",
+      "takenAt": "2026-07-22T11:55:31",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.14043,
+      "lng": 129.11652,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_cbe039",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0244.JPG",
+      "takenAt": "2026-07-22T16:24:51",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.16992,
+      "lng": 129.0377,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_e4e1a3",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0245.JPG",
+      "takenAt": "2026-07-31T13:03:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1372,
+      "lng": 129.07643,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 32
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_8efd6d",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0246.JPG",
+      "takenAt": "2026-07-31T20:45:49",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17673,
+      "lng": 129.07555,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_b5e710",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0247.JPG",
+      "takenAt": "2026-08-04T21:38:00",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19582,
+      "lng": 129.02299,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 640
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_9b6a6b",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0248.JPG",
+      "takenAt": "2026-08-05T14:10:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.18587,
+      "lng": 129.10225,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_202247",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0249.JPG",
+      "takenAt": "2026-08-13T14:41:43",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13656,
+      "lng": 129.01385,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_838c22",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0250.JPG",
+      "takenAt": "2026-08-14T11:18:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22686,
+      "lng": 129.02778,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 40
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0114cd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0251.JPG",
+      "takenAt": "2026-08-17T11:23:40",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13555,
+      "lng": 129.05734,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.001,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_5a83d9",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0252.JPG",
+      "takenAt": "2026-08-18T21:54:21",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13553,
+      "lng": 129.0912,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_c84921",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0253.JPG",
+      "takenAt": "2026-08-27T16:03:16",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20085,
+      "lng": 129.1372,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 80
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_d89462",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0254.JPG",
+      "takenAt": "2026-08-28T13:46:57",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.13931,
+      "lng": 129.07647,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fd0a2f",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0255.JPG",
+      "takenAt": "2026-09-02T14:10:05",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.20857,
+      "lng": 129.08939,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 50
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_01651a",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0256.JPG",
+      "takenAt": "2026-09-03T15:57:30",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19997,
+      "lng": 129.10353,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_0088e3",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0257.JPG",
+      "takenAt": "2026-09-08T21:49:13",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1276,
+      "lng": 129.0173,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0167,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_3abc0e",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0258.JPG",
+      "takenAt": "2026-09-11T16:22:53",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.2334,
+      "lng": 129.09684,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.00833,
+        "iso": 64
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ba0257",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0259.JPG",
+      "takenAt": "2026-09-15T14:21:28",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.17463,
+      "lng": 129.03518,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.002,
+        "iso": 25
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_18dcfd",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0260.JPG",
+      "takenAt": "2026-09-17T20:28:11",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.15316,
+      "lng": 129.13407,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 1000
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_ec2fc0",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0261.JPG",
+      "takenAt": "2026-09-22T21:57:46",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.22794,
+      "lng": 129.066,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.025,
+        "iso": 400
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_fe53ca",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0262.JPG",
+      "takenAt": "2026-09-23T15:53:09",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.1665,
+      "lng": 129.05348,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.004,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "p_22e4c8",
+      "ownerId": "u_edge",
+      "fileName": "IMG_0263.JPG",
+      "takenAt": "2026-09-30T11:31:45",
+      "offset": "+09:00",
+      "timeUncertain": false,
+      "lat": 35.19045,
+      "lng": 129.04308,
+      "camera": {
+        "make": "samsung",
+        "model": "SM-S911N",
+        "focal": 23,
+        "aperture": 1.8,
+        "shutter": 0.0005,
+        "iso": 100
+      },
+      "fileKey": null,
+      "uploadedAt": "2026-10-01T21:00:00+09:00"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post_edge_1",
+      "ownerId": "u_edge",
+      "date": "2025-02-01",
+      "title": "자정의 시부야",
+      "body": "",
+      "tags": [
+        "도쿄"
+      ],
+      "photoIds": [
+        "p_8e0fff"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_edge_2",
+      "ownerId": "u_edge",
+      "date": "2025-03-01",
+      "title": "같은 날 두 번",
+      "body": "",
+      "tags": [
+        "호놀룰루"
+      ],
+      "photoIds": [],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "post_edge_3",
+      "ownerId": "u_edge",
+      "date": "2025-09-14",
+      "title": "파리 마지막 날",
+      "body": "",
+      "tags": [
+        "파리"
+      ],
+      "photoIds": [
+        "p_7d74cb"
+      ],
+      "updatedAt": "2026-10-01T21:00:00+09:00"
+    }
+  ],
+  "corrections": [
+    {
+      "id": "c_edge_1",
+      "ownerId": "u_edge",
+      "type": "transit",
+      "photoIds": [
+        "p_44994c"
+      ],
+      "createdAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "c_edge_2",
+      "ownerId": "u_edge",
+      "type": "exclude",
+      "photoId": "p_3e527e",
+      "createdAt": "2026-10-01T21:00:00+09:00"
+    },
+    {
+      "id": "c_edge_3",
+      "ownerId": "u_edge",
+      "type": "mode",
+      "fromPhotoId": "p_591c3c",
+      "mode": "car",
+      "createdAt": "2026-10-01T21:00:00+09:00"
+    }
+  ]
+}

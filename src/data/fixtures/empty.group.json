@@ -1,0 +1,9 @@
+{
+  "personaId": "empty",
+  "generatedBy": "mock/reference-group.mjs",
+  "home": null,
+  "stops": [],
+  "trips": [],
+  "unlocated": [],
+  "notes": []
+}

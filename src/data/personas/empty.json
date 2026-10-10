@@ -1,0 +1,10 @@
+{
+  "id": "empty",
+  "account": { "email": "empty@demo.local", "name": "새 사용자" },
+  "profile": "막 가입한 빈 계정. 여행 0개 화면과 첫 올리기를 확인한다.",
+  "home": null,
+  "devices": [],
+  "trips": [],
+  "posts": [],
+  "corrections": []
+}

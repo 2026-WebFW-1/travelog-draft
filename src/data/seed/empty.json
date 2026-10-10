@@ -1,0 +1,13 @@
+{
+  "user": {
+    "id": "u_empty",
+    "email": "empty@demo.local",
+    "name": "새 사용자",
+    "picture": null,
+    "provider": "demo",
+    "createdAt": "2026-10-01T21:00:00+09:00"
+  },
+  "photos": [],
+  "posts": [],
+  "corrections": []
+}
